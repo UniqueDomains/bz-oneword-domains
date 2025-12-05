@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.BZ one word domains](
 | ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | abactinal.bz  | premium   | 50       | 1%     | 9      |           |         |         |
 | abaft.bz      | premium   | 43       | 2%     | 5      |           |         |         |
-| abandoned.bz  | premium   | 58       | 10%    | 9      |           |         |         |
+| abandoned.bz  | premium   | 58       | 7%     | 9      |           |         |         |
 | abashed.bz    | premium   | 60       | 2%     | 7      |           |         |         |
 | abasic.bz     | premium   | 54       | 2%     | 6      |           |         |         |
 | abatable.bz   | premium   | 54       | 1%     | 8      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.BZ one word domains](
 | abaxial.bz    | premium   | 54       | 2%     | 7      |           |         |         |
 | abbatial.bz   | premium   | 50       | 1%     | 8      |           |         |         |
 | abdicable.bz  | premium   | 50       | 1%     | 9      |           |         |         |
-| abdominal.bz  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.bz  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.bz | premium   | 56       | 1%     | 10     |           |         |         |
 | abducens.bz   | premium   | 54       | 1%     | 8      |           |         |         |
 | abducent.bz   | premium   | 68       | 1%     | 8      |           |         |         |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.BZ one word domains](
 | aberdonian.bz | premium   | 68       | 1%     | 10     |           |         |         |
 | aberrant.bz   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.bz    | premium   | 56       | 2%     | 7      |           |         |         |
-| abhorrent.bz  | premium   | 54       | 1%     | 9      |           |         |         |
+| abhorrent.bz  | premium   | 54       | 3%     | 9      |           |         |         |
 | abiding.bz    | available | 106      | 5%     | 7      |           |         |         |
 | abient.bz     | premium   | 54       | 1%     | 6      |           |         |         |
 | abit.bz       | available | 66       | 16%    | 5      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BZ one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
