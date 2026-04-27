@@ -1,22 +1,22 @@
-# Available .BZ One-Word Domains (8,394)
+# Available .BZ One-Word Domains (11,049)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C395%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C394%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C049%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .bz one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .bz one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,049 domains** on the canonical page below.
 
-**Public extract:** 8,395 rows · **Live catalog:** 8,394 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,049 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/bz`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BZ one-word domain ca
 
 ### Files
 
-- `bz.csv` — public CSV extract (8,395 rows)
-- `bz.json` — public JSON extract (8,395 rows)
+- `bz.csv` — public CSV extract (1,000 rows)
+- `bz.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| still.bz      | available | $25       | $27.99        | 76             | 99     | 5      | name.com         |
-| power.bz      | resell    | $26.98    | —             | 98             | 62     | 5      | Porkbun LLC      |
-| abandoned.bz  | premium   | $25       | $27.99        | 58             | 10     | 9      | name.com         |
-| common.bz     | available | $25       | $27.99        | 71             | 99     | 6      | name.com         |
-| china.bz      | resell    | —         | —             | 84             | 98     | 5      | Name.com, Inc.   |
-| abhorrent.bz  | premium   | $25       | $27.99        | 54             | 2      | 9      | name.com         |
-| android.bz    | available | $25       | —             | 78             | 95     | 7      | name.com         |
-| woo.bz        | resell    | —         | —             | 67             | 82     | 3      | DomainSite, Inc. |
-| cheap.bz      | premium   | —         | —             | 110            | 99     | 5      | —                |
-| converse.bz   | available | $25       | $27.99        | 64             | 73     | 8      | name.com         |
-| switch.bz     | resell    | —         | —             | 70             | 68     | 6      | Tool Domains Ltd |
-| beautiful.bz  | premium   | —         | —             | 104            | 99     | 9      | —                |
-| nationwide.bz | available | $25       | $27.99        | 76             | 66     | 10     | name.com         |
-| space.bz      | resell    | —         | —             | 80             | 61     | 5      | humbly, LLC      |
-| blue.bz       | premium   | —         | —             | 92             | 99     | 4      | —                |
-| even.bz       | available | $25       | $27.99        | 98             | 63     | 4      | name.com         |
-| future.bz     | resell    | —         | —             | 94             | 55     | 6      | Sav.com, LLC     |
-| property.bz   | premium   | —         | —             | 90             | 99     | 8      | —                |
-| seventeen.bz  | available | $25       | $27.99        | 84             | 62     | 9      | name.com         |
-| email.bz      | resell    | —         | —             | 106            | 54     | 6      | NameCheap, Inc.  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
+| IsleofMan.bz    | available | $26.98    | —             | 62             | 91     | 11     | namecheap                               |
+| online.bz       | resell    | —         | —             | 70             | 62     | 7      | Dynadot Inc                             |
+| winners.bz      | available | $25       | —             | 60             | 81     | 7      | name.com                                |
+| infrared.bz     | resell    | —         | —             | 66             | 25     | 9      | GoDaddy.com, LLC                        |
+| nets.bz         | available | $25       | —             | 54             | 81     | 4      | name.com                                |
+| Islands.bz      | resell    | —         | —             | 84             | 22     | 7      | GoDaddy.com, LLC                        |
+| insight.bz      | available | $25       | —             | 76             | 69     | 8      | name.com                                |
+| flights.bz      | resell    | —         | —             | 61             | 22     | 7      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| shortcuts.bz    | available | $25       | —             | 48             | 41     | 10     | name.com                                |
+| restaurants.bz  | resell    | —         | —             | 57             | 21     | 11     | GoDaddy.com, LLC                        |
+| neuroscience.bz | available | $25       | —             | 80             | 37     | 12     | name.com                                |
+| chatbot.bz      | available | $25       | —             | 82             | 36     | 7      | name.com                                |
+| aliens.bz       | available | $25       | —             | 56             | 35     | 6      | name.com                                |
+| inspiration.bz  | available | $25       | —             | 88             | 30     | 11     | name.com                                |
+| rewards.bz      | available | $25       | —             | 62             | 30     | 7      | name.com                                |
+| spaces.bz       | available | $25       | —             | 54             | 30     | 6      | name.com                                |
+| videos.bz       | available | $25       | —             | 52             | 30     | 6      | name.com                                |
+| heroes.bz       | available | $25       | —             | 68             | 29     | 6      | name.com                                |
+| commonground.bz | available | $25       | —             | 74             | 28     | 13     | name.com                                |
+| brands.bz       | available | $25       | —             | 62             | 28     | 6      | name.com                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,395-row public sample | 8,394 live domains                               |
+| 1,000-row public sample | 11,049 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
