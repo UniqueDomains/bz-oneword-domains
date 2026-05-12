@@ -73,7 +73,7 @@ print(df.head())
 | edamame.bz   | available | $25       | —             | 80             | 9      | 7      | name.com         |
 | playin.bz    | available | $25       | —             | 80             | 10     | 7      | name.com         |
 | playon.bz    | available | $25       | —             | 80             | 14     | 7      | name.com         |
-| chatbot.bz   | available | $25       | —             | 82             | 36     | 7      | name.com         |
+| chatbot.bz   | available | $25       | —             | 82             | 40     | 7      | name.com         |
 | stirup.bz    | available | $25       | —             | 82             | 3      | 7      | name.com         |
 | dogsick.bz   | available | $25       | —             | 90             | 1      | 7      | name.com         |
 | leaveon.bz   | available | $25       | —             | 80             | 1      | 8      | name.com         |
