@@ -1,10 +1,10 @@
-# Available .BZ One-Word Domains (11,225)
+# Available .BZ One-Word Domains (11,231)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C225%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C231%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,225 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,231 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,225 domains · **Median ask:** $25.14 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,231 domains · **Median ask:** $24.60 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/bz`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bz`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BZ one-word domain ca
 
 ### Files
 
-- `bz.csv` — public CSV extract (1,000 rows)
-- `bz.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bz.csv`, public CSV extract (1,000 rows)
+- `bz.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| tips.bz      | available | $25       | —             | 80             | 26     | 4      | name.com         |
-| Trex.bz      | available | $26.98    | —             | 80             | 24     | 5      | namecheap        |
-| ladies.bz    | available | $25       | —             | 80             | 17     | 6      | name.com         |
-| geton.bz     | available | $25       | —             | 82             | 10     | 6      | name.com         |
-| getup.bz     | available | $25       | —             | 82             | 15     | 6      | name.com         |
-| useit.bz     | available | $25       | —             | 94             | 7      | 6      | name.com         |
-| edamame.bz   | available | $25       | —             | 80             | 9      | 7      | name.com         |
-| playin.bz    | available | $25       | —             | 80             | 10     | 7      | name.com         |
-| playon.bz    | available | $25       | —             | 80             | 14     | 7      | name.com         |
-| chatbot.bz   | available | $25       | —             | 82             | 40     | 7      | name.com         |
-| stirup.bz    | available | $25       | —             | 82             | 3      | 7      | name.com         |
-| dogsick.bz   | available | $25       | —             | 90             | 1      | 7      | name.com         |
-| leaveon.bz   | available | $25       | —             | 80             | 1      | 8      | name.com         |
-| IsleofMan.bz | available | $26.98    | —             | 62             | 91     | 11     | namecheap        |
-| online.bz    | resell    | —         | —             | 70             | 62     | 7      | Dynadot Inc      |
-| winners.bz   | available | $25       | —             | 60             | 81     | 7      | name.com         |
-| nash.bz      | resell    | —         | —             | 74             | 29     | 4      | GoDaddy.com, LLC |
-| nets.bz      | available | $25       | —             | 54             | 81     | 4      | name.com         |
-| infrared.bz  | resell    | —         | —             | 66             | 25     | 9      | GoDaddy.com, LLC |
-| insight.bz   | available | $25       | —             | 76             | 69     | 8      | name.com         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| great.bz      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| room.bz       | available | —         | —             | high           | low    | 4      | —                |
+| time.bz       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
+| special.bz    | available | $25       | —             | high           | low    | 7      | name.com         |
+| count.bz      | available | $25       | —             | high           | low    | 5      | name.com         |
+| wrong.bz      | available | $25       | —             | high           | low    | 5      | name.com         |
+| dip.bz        | available | $25       | $27.99        | high           | low    | 3      | name.com         |
+| sun.bz        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| consultant.bz | premium   | $25       | —             | high           | low    | 10     | name.com         |
+| DJI.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
+| xcv.bz        | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC |
+| dye.bz        | available | $25       | —             | medium         | low    | 3      | name.com         |
+| you.bz        | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
+| fog.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
+| card.bz       | resell    | —         | —             | medium         | medium | 4      | 1API GmbH        |
+| NWO.bz        | available | $25       | —             | medium         | low    | 3      | name.com         |
+| icon.bz       | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.  |
+| rid.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
+| sale.bz       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| spf.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,225 live domains                        |
+| 1,000-row public sample | 11,231 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 38 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .bz extension. The set includes dictionary-style words, short coined forms, and verb-led terms such as tips.bz, Trex.bz, finals.bz, and getup.bz. For founders, the main question is whether the word is memorable enough to offset the lower recognition of .bz versus more established extensions. For investors, the key is entry price discipline and realistic resale expectations. With a median ask of 25.14, this selection sits in low-cost territory, so the difference between a strong pick and a weak one is usually word quality, commercial intent, and the likelihood of confusion with existing brands.
+This selection covers one-word domain names on the .bz extension, spanning everyday nouns, verbs, and short phrases like half.bz, tips.bz, and come.bz. Availability is the norm here: 11,097 of 11,231 names are open to register, with only 134 showing as resell. Pricing is heavily concentrated under $500, and the median ask lands near $24.60, making this a low-cost entry point for one-word .bz names. Demand skews low across most of the list, with a small cluster of higher-demand names worth closer attention.
 
-- Prioritize clean, memorable words over novelty spellings
-- Check whether the word fits .bz without feeling forced
-- Use low ask pricing to stay selective, not less disciplined
-- Screen for brand conflict risk before valuing any upside
+- 11,097 available, 134 resell out of 11,231 names
+- Median ask near $24.60, most names under $500
+- 7,031 names flagged as easy to spell
+- 26 names sit in the top 15% demand tier
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
