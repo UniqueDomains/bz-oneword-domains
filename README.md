@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bz one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,459 domains · **Median ask:** $23.18 · **High-demand under $2,500:** 60
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/bz`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| great.bz      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| room.bz       | available | —         | —             | high           | low    | 4      | —                |
 | dip.bz        | available | $25       | $27.99        | high           | low    | 3      | name.com         |
 | sun.bz        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
 | consultant.bz | premium   | $25       | —             | high           | low    | 10     | name.com         |
@@ -82,8 +84,6 @@ print(df.head())
 | sum.bz        | available | $25       | $27.99        | medium         | low    | 3      | name.com         |
 | brand.bz      | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC |
 | xci.bz        | available | $21.98    | $26.98        | low            | low    | 3      | namecheap        |
-| great.bz      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| xxi.bz        | available | $25       | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
