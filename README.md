@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bz one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,265 domains · **Median ask:** $22.94 · **High-demand under $2,500:** 61
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/bz`
 **Best for:** founders, investors, studios
 
@@ -67,20 +67,20 @@ print(df.head())
 | dip.bz        | available | $25       | $27.99        | high           | low    | 3      | name.com         |
 | sun.bz        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
 | consultant.bz | premium   | $25       | —             | high           | low    | 10     | name.com         |
-| DJI.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
-| xcv.bz        | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC |
+| dji.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
+| woo.bz        | resell    | —         | —             | low            | low    | 3      | DomainSite, Inc. |
 | dye.bz        | available | $25       | —             | medium         | low    | 3      | name.com         |
-| you.bz        | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
+| xcv.bz        | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC |
 | fog.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
+| you.bz        | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
+| nwo.bz        | available | $25       | —             | medium         | low    | 3      | name.com         |
 | card.bz       | resell    | —         | —             | medium         | medium | 4      | 1API GmbH        |
-| NWO.bz        | available | $25       | —             | medium         | low    | 3      | name.com         |
-| icon.bz       | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.  |
 | rid.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
 | sale.bz       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 | spf.bz        | available | $25       | —             | high           | low    | 3      | name.com         |
 | time.bz       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
 | sum.bz        | available | $25       | $27.99        | medium         | low    | 3      | name.com         |
-| brand.bz      | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC |
+| brand.bz      | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
 | xci.bz        | available | $21.98    | $26.98        | low            | low    | 3      | namecheap        |
 | great.bz      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | xxi.bz        | available | $25       | —             | medium         | low    | 3      | name.com         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
