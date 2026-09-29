@@ -1,10 +1,10 @@
-# Available .BZ One-Word Domains (22,310)
+# Available .BZ One-Word Domains (24,274)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C310%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C274%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,310 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,274 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,310 domains · **Median ask:** $22.31 · **High-demand under $2,500:** 101
+**Public extract:** 1,000 rows · **Live catalog:** 24,274 domains · **Median ask:** $21.95 · **High-demand under $2,500:** 125
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/bz`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| bce.bz   | available | $25       | —             | high           | low    | 3      | name.com                                 |
-| ala.bz   | resell    | —         | —             | high           | low    | 3      | Hosting Concepts B.V. d/b/a Registrar.eu |
-| clv.bz   | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
-| ina.bz   | resell    | —         | —             | high           | low    | 3      | —                                        |
-| hum.bz   | available | $25       | —             | high           | low    | 3      | name.com                                 |
-| jay.bz   | resell    | —         | —             | high           | low    | 3      | OnlineNIC, Inc.                          |
-| iaa.bz   | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
-| mad.bz   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                         |
-| low.bz   | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
-| pro.bz   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                              |
-| lxv.bz   | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
-| tao.bz   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                              |
-| row.bz   | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
-| xxx.bz   | resell    | —         | —             | high           | medium | 3      | Network Solutions, LLC                   |
-| thb.bz   | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
-| bike.bz  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                              |
-| van.bz   | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
-| dead.bz  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                         |
-| xlv.bz   | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
-| audio.bz | resell    | —         | —             | high           | low    | 5      | Mesh Digital Limited                     |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| clv.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
+| ala.bz  | resell    | —         | —             | high           | low    | 3      | Hosting Concepts B.V. d/b/a Registrar.eu |
+| iaa.bz  | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
+| ina.bz  | resell    | —         | —             | high           | low    | 3      | —                                        |
+| iec.bz  | available | $18.88    | $18.88        | medium         | low    | 3      | dynadot                                  |
+| jay.bz  | resell    | —         | —             | high           | low    | 3      | OnlineNIC, Inc.                          |
+| low.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
+| mad.bz  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                         |
+| lxv.bz  | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
+| pow.bz  | resell    | —         | —             | medium         | low    | 3      | —                                        |
+| row.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
+| pro.bz  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                              |
+| thb.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
+| tao.bz  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                              |
+| van.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
+| xxx.bz  | resell    | —         | —             | high           | medium | 3      | Network Solutions, LLC                   |
+| wto.bz  | available | $21.98    | $26.98        | high           | high   | 3      | namecheap                                |
+| bike.bz | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                              |
+| xlv.bz  | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
+| dead.bz | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,310 live domains                        |
+| 1,000-row public sample | 24,274 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 101 high-demand names under $2,500         |
+| Basic exported fields   | 125 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
