@@ -1,10 +1,10 @@
-# Available .BZ One-Word Domains (26,162)
+# Available .BZ One-Word Domains (28,464)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C162%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C464%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,162 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,464 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,162 domains · **Median ask:** $21.65 · **High-demand under $2,500:** 145
+**Public extract:** 1,000 rows · **Live catalog:** 28,464 domains · **Median ask:** $21.40 · **High-demand under $2,500:** 170
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/bz`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
 | clv.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
 | ala.bz  | resell    | —         | —             | high           | low    | 3      | Hosting Concepts B.V. d/b/a Registrar.eu |
-| dhs.bz  | available | $16.79    | $16.79        | high           | low    | 3      | porkbun                                  |
+| dhs.bz  | available | $16.79    | $16.79        | medium         | low    | 3      | porkbun                                  |
 | ina.bz  | resell    | —         | —             | high           | low    | 3      | —                                        |
 | eia.bz  | available | $18.88    | $18.88        | high           | low    | 3      | dynadot                                  |
 | jay.bz  | resell    | —         | —             | high           | low    | 3      | OnlineNIC, Inc.                          |
 | gaa.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
 | mad.bz  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                         |
 | iaa.bz  | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
-| pow.bz  | resell    | —         | —             | high           | low    | 3      | —                                        |
+| pow.bz  | resell    | —         | —             | medium         | low    | 3      | —                                        |
 | iec.bz  | available | $18.88    | $18.88        | medium         | low    | 3      | dynadot                                  |
 | pro.bz  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                              |
-| low.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
+| jog.bz  | available | $16.79    | $16.79        | high           | low    | 3      | porkbun                                  |
 | tao.bz  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                              |
-| lui.bz  | available | $16.79    | $16.79        | medium         | low    | 3      | porkbun                                  |
+| ldp.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
 | xxx.bz  | resell    | —         | —             | high           | medium | 3      | Network Solutions, LLC                   |
-| lxv.bz  | available | $21.98    | $26.98        | medium         | low    | 3      | namecheap                                |
+| low.bz  | available | $21.98    | $26.98        | high           | low    | 3      | namecheap                                |
 | bike.bz | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                              |
-| msu.bz  | available | $18.88    | $18.88        | high           | low    | 3      | dynadot                                  |
+| lui.bz  | available | $16.79    | $16.79        | medium         | low    | 3      | porkbun                                  |
 | dead.bz | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,162 live domains                        |
+| 1,000-row public sample | 28,464 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 145 high-demand names under $2,500         |
+| Basic exported fields   | 170 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BZ One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
