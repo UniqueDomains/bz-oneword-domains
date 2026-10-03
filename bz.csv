@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 c759fde5-2d8c-454f-b84c-9850a698897f,snowfall.bz,available,21.98,26.98,high,low,8,namecheap,,,01/10/2026 21:44
 3a18803c-12e4-445c-8191-f5add8968860,performs.bz,available,25,,medium,low,8,name.com,,,
+f57b2d51-aa53-4c7f-be7e-bfea1a94eb75,communicator.bz,available,16.79,16.79,high,low,12,porkbun,,,02/10/2026 18:22
 6d2d808e-10a8-4c94-ad59-2e7e8994b696,chicano.bz,available,21.98,26.98,high,low,7,namecheap,,,02/10/2026 04:20
 d20f6080-ee14-44f3-9cc2-62553fce360c,awaken.bz,available,21.98,26.98,high,low,6,namecheap,,,22/09/2026 14:40
 feb6b6bc-de9d-427a-b844-efe7c72fc32f,ecstatic.bz,available,21.98,26.98,high,low,8,namecheap,,,14/08/2026 23:44
@@ -34,7 +35,7 @@ f86191b2-53f6-42e8-a769-444cb198b7c6,danny.bz,available,21.98,26.98,medium,low,5
 39af2402-c8a3-4a70-9869-a542d82b678e,christiana.bz,available,29.99,29.99,medium,low,10,godaddy,,,01/10/2026 00:03
 d9e0252f-769d-40a6-b01c-64a79977569a,oleaceous.bz,available,21.98,26.98,medium,low,9,namecheap,,,04/09/2026 02:06
 96c64961-1c6a-42c3-8d9a-bb5e4076321b,asbestos.bz,available,21.98,26.98,high,low,8,namecheap,,,20/09/2026 12:54
-5550f8b3-8ae5-4463-a0f8-7db30e4426a4,disruptive.bz,available,18.88,18.88,medium,low,10,dynadot,,,28/09/2026 07:50
+5550f8b3-8ae5-4463-a0f8-7db30e4426a4,disruptive.bz,available,16.79,16.79,medium,low,10,porkbun,,,02/10/2026 11:08
 70ab781f-3896-4746-981b-c07c15cd7183,ina.bz,resell,,,high,low,3,,,,28/09/2026 04:04
 eda256e0-d69d-4962-99d5-5e205894324e,facilities.bz,available,18.88,18.88,high,low,10,dynadot,,,01/10/2026 18:10
 805fb927-27ba-4c5e-89b8-bc77b0f6e3a5,factor.bz,available,18.88,18.88,high,low,6,dynadot,,,29/09/2026 04:30
@@ -44,11 +45,13 @@ eda256e0-d69d-4962-99d5-5e205894324e,facilities.bz,available,18.88,18.88,high,lo
 6251d47d-3f59-4768-9381-31ee98f43be6,posted.bz,available,21.98,26.98,high,low,6,namecheap,,,09/09/2026 00:21
 ac14e603-8bba-4dcd-b9e9-4d0d239f5553,convertible.bz,available,21.98,26.98,high,low,11,namecheap,,,28/09/2026 15:45
 be3a8e22-3831-43cd-8107-61637aac9134,areola.bz,available,21.98,26.98,medium,low,6,namecheap,,,20/09/2026 03:49
+fe4a41d8-30f8-47cb-b31f-8a192d4f0836,balances.bz,available,18.88,18.88,medium,low,8,dynadot,,,02/10/2026 22:22
 10adbaac-4d77-4872-b6cf-fb429325d7e5,scupper.bz,available,21.98,26.98,medium,low,7,namecheap,,,18/09/2026 17:30
 aa29bd13-e888-4413-a77a-f6cdfbf8fe79,argive.bz,available,21.98,26.98,medium,low,6,namecheap,,,06/08/2026 18:27
 74646d36-dc90-474d-ae4f-4556add9bd73,bremer.bz,available,18.88,18.88,high,low,6,dynadot,,,30/09/2026 04:16
 71dbbf9b-1094-4713-aef0-f3ab1050b12b,ruffled.bz,available,21.98,26.98,medium,low,7,namecheap,,,18/08/2026 15:53
 b74b2fc9-3fb5-4b53-9949-ac2cdec0db4c,bohrium.bz,available,21.98,26.98,medium,low,7,namecheap,,,20/09/2026 22:07
+45f70676-caec-43af-bbe2-bb4549f70c4a,vigilante.bz,available,21.98,26.98,high,low,9,namecheap,,,02/10/2026 06:38
 08658d99-d513-4ae3-bee2-4e601bfcc974,sensibility.bz,available,21.98,26.98,high,low,11,namecheap,,,30/09/2026 22:27
 2837b31e-424b-4b29-8879-f5cd1d835a36,manipulative.bz,available,21.98,26.98,medium,low,12,namecheap,,,30/09/2026 19:49
 a44005f5-4823-4bf5-a1ea-4c6a53b661e5,discerning.bz,available,21.98,26.98,high,low,10,namecheap,,,06/08/2026 08:23
@@ -72,6 +75,7 @@ f805f024-47fa-43e0-a199-63f11198a83f,informative.bz,available,21.98,26.98,high,l
 245445d6-f500-42ce-b38e-337ca8f98fe6,purebred.bz,available,21.98,26.98,high,medium,8,namecheap,,,09/09/2026 06:16
 17633704-d208-4398-a459-44432e5695b4,wounded.bz,available,21.98,26.98,high,low,7,namecheap,,,25/09/2026 06:51
 73682778-ecff-4fe2-8cab-acbb466a269f,outlander.bz,available,21.98,26.98,medium,low,9,namecheap,,,
+fe51e6a4-60d3-4ce5-b63f-ff399bbffdf2,wading.bz,available,21.98,26.98,medium,low,6,namecheap,,,03/10/2026 02:21
 b88cedcc-7105-4a10-93eb-484898053bb3,consistent.bz,available,21.98,26.98,high,low,10,namecheap,,,12/08/2026 16:01
 dd2f6dce-b875-444f-bbed-0f44cea2761c,receptionist.bz,available,21.98,26.98,high,low,12,namecheap,,,30/09/2026 12:16
 25605c4f-eebd-45b2-a668-f1a5abc9419b,manny.bz,available,21.98,26.98,high,low,5,namecheap,,,28/09/2026 07:22
@@ -108,6 +112,7 @@ e5a05eee-c020-4490-a579-3c2da832450d,avoid.bz,available,21.98,26.98,high,low,5,n
 31ad55c4-08a1-4f42-a5b5-879558e3fa20,myer.bz,available,16.79,16.79,medium,low,4,porkbun,,,29/09/2026 22:41
 bb48058b-736f-4474-9788-fa44942c5f88,aconite.bz,available,21.98,26.98,medium,low,7,namecheap,,,17/09/2026 02:05
 91f62334-90a2-4f39-9d71-a3e5c148455e,newsworthy.bz,available,21.98,26.98,high,low,10,namecheap,,,03/09/2026 16:53
+b8a6cfc8-1fad-4fa1-8ad4-d5f8eb44d9cf,compiling.bz,available,18.88,18.88,high,low,9,dynadot,,,02/10/2026 14:44
 3f337c81-cee2-4382-9ba6-fcc1720e5449,screwy.bz,available,21.98,26.98,medium,low,6,namecheap,,,10/09/2026 00:08
 9cdfafa4-5d21-441f-bff2-161a6694c480,adair.bz,available,18.88,18.88,medium,low,5,dynadot,,,28/09/2026 16:27
 6dd5bb59-5c29-4c9e-a4eb-6ebb2fd77d3a,dmitry.bz,available,18.88,18.88,high,low,6,dynadot,,,29/09/2026 15:33
@@ -129,10 +134,12 @@ e41d8990-59d2-466b-aecf-f2145f4f7d0f,computers.bz,resell,,,high,low,9,"Wild West
 2c4b7bf7-d35d-4a2f-8691-f5a3affce56c,astrology.bz,resell,,,high,low,9,Porkbun LLC,19/04/2022 11:08,19/04/2027 11:08,26/09/2026 04:05
 5c619a00-268f-4392-86b2-d3f7dcd8bec1,coldly.bz,available,18.88,18.88,low,low,6,dynadot,,,28/09/2026 14:07
 21331dc0-475a-4a7d-b46b-b3319ad0cbd5,unquiet.bz,available,21.98,26.98,medium,low,7,namecheap,,,12/09/2026 17:40
+ab9f9368-1796-444a-985e-a15310a51148,reggae.bz,available,21.98,26.98,high,low,6,namecheap,,,02/10/2026 06:14
 b384682b-1e7c-4aa3-9546-640ab342457c,fogbound.bz,available,21.98,26.98,medium,low,8,namecheap,,,18/08/2026 09:49
 7b3297cf-bea3-4090-982d-f3b3b13ec9fa,barks.bz,available,21.98,26.98,medium,low,5,namecheap,,,02/10/2026 02:38
 84454335-5b0a-4ef3-b9d6-163f1b88638d,realistic.bz,available,21.98,26.98,high,low,9,namecheap,,,03/09/2026 13:57
 051bc54b-e8a1-4d73-8093-25e16d5cc522,illustrator.bz,available,21.98,26.98,high,low,11,namecheap,,,01/10/2026 22:47
+f63b5676-ffe7-433d-869e-c226cc1b10cc,spoons.bz,available,16.79,16.79,high,low,6,porkbun,,,02/10/2026 10:24
 32ef6948-e828-4813-ba09-b816075c8145,zymoid.bz,available,21.98,26.98,medium,low,6,namecheap,,,13/09/2026 15:55
 3f48f8ce-7972-4e6f-bc18-105ca9dcdbe1,lyrical.bz,available,21.98,26.98,high,low,7,namecheap,,,24/08/2026 12:41
 0727c930-40cc-4f99-b4a5-f30441a35985,cedar.bz,available,16.79,16.79,high,low,5,porkbun,,,29/09/2026 00:24
@@ -142,6 +149,8 @@ cc355920-96f1-4b6a-ac68-ffd3f1cf0db9,thundery.bz,available,25,27.99,medium,low,8
 3b0a02d6-27ca-4c09-bd49-490d9216962e,epos.bz,available,21.98,26.98,high,low,4,namecheap,,,17/08/2026 10:28
 611a8d9f-96db-40f5-a333-342f215e7ec0,tomlinson.bz,available,21.98,26.98,medium,low,9,namecheap,,,28/09/2026 12:15
 5c3d2e95-6179-4aa7-a91e-e486754f145b,enormously.bz,available,21.98,26.98,medium,low,10,namecheap,,,14/09/2026 15:47
+837ac0bc-90f5-4cb8-afe0-397fe316be4b,battled.bz,available,16.79,16.79,medium,low,7,porkbun,,,02/10/2026 14:22
+2b6e6276-2d4b-450b-826f-35dffc518742,dynamo.bz,available,16.79,16.79,high,low,6,porkbun,,,02/10/2026 14:56
 4ed87ece-ce66-4a70-89e9-9e0b7dce78b5,acrophobia.bz,available,21.98,26.98,medium,low,10,namecheap,,,17/09/2026 03:53
 28dae7bf-4807-4a59-9ac1-90d8452814d3,bemused.bz,available,21.98,26.98,medium,low,7,namecheap,,,07/08/2026 11:47
 2b1a12a2-f5f6-4b65-853d-5067ba67401d,unimposing.bz,available,21.98,26.98,medium,low,10,namecheap,,,12/09/2026 13:12
@@ -166,7 +175,7 @@ f49ea595-0f78-4644-b114-e96f399b2f19,squeezed.bz,available,16.79,16.79,medium,lo
 946440fb-7978-4745-9033-beb1f1e72379,chaplin.bz,available,21.98,26.98,high,low,7,namecheap,,,28/09/2026 18:39
 5b9cf9f9-4755-4e5e-b32c-917f48da2193,eligible.bz,available,21.98,26.98,high,low,8,namecheap,,,16/08/2026 04:35
 8ec8972d-5c81-4ff7-9ce9-5e16a4215410,default.bz,available,21.98,26.98,high,low,7,namecheap,,,29/09/2026 13:30
-13b48da2-5533-49d4-bfa8-a0a82237e895,blackout.bz,available,21.98,26.98,high,low,8,namecheap,,,18/09/2026 22:20
+13b48da2-5533-49d4-bfa8-a0a82237e895,blackout.bz,available,16.79,16.79,high,low,8,porkbun,,,02/10/2026 21:11
 e08b1497-6182-4ce5-b544-8c453a5221a0,rouser.bz,available,21.98,26.98,medium,low,6,namecheap,,,20/09/2026 08:33
 b783cd90-5554-4d2f-bf6e-44107281f2bf,destined.bz,available,21.98,26.98,high,low,8,namecheap,,,24/09/2026 06:55
 f0e62332-bb09-42c2-a4f7-2715f944ff04,january.bz,available,21.98,26.98,high,low,7,namecheap,,,30/09/2026 00:38
@@ -174,6 +183,7 @@ f0e62332-bb09-42c2-a4f7-2715f944ff04,january.bz,available,21.98,26.98,high,low,7
 7bcb9d61-3e05-4c5c-b967-40ed35d46e7f,berks.bz,available,16.79,16.79,medium,low,5,porkbun,,,29/09/2026 15:22
 50c54395-4aeb-4b6a-88c2-e604ec900b6f,creditors.bz,available,21.98,26.98,medium,low,9,namecheap,,,20/09/2026 15:31
 0b8755e3-a2ad-4ffd-aaab-aa28b6fcfd91,defiled.bz,available,21.98,26.98,medium,low,7,namecheap,,,13/08/2026 23:24
+04a5c798-2bf6-4f7d-924b-b88468c40094,zamboanga.bz,available,21.98,26.98,high,low,9,namecheap,,,02/10/2026 09:38
 3141a5b0-61c7-487d-84b3-18c95da99562,dominguez.bz,available,16.79,16.79,medium,low,9,porkbun,,,30/09/2026 13:47
 59ed238c-30a4-4704-a592-5c37442ace16,midnight.bz,available,21.98,26.98,high,medium,8,namecheap,,,25/09/2026 09:24
 df71d43d-f9e7-43e4-b2d7-82b63262210b,expectancy.bz,available,21.98,26.98,high,low,10,namecheap,,,19/09/2026 14:15
@@ -233,6 +243,9 @@ cb57b528-2b76-447f-9348-b8ade7a0e1bf,introduces.bz,available,21.98,26.98,medium,
 daca29fb-e0e5-43ec-aa55-32ff2b320b40,steadied.bz,available,21.98,26.98,medium,low,8,namecheap,,,10/09/2026 19:30
 aeca993b-0941-4a12-8e3f-6bddd824207e,exploding.bz,available,16.79,16.79,high,low,9,porkbun,,,30/09/2026 04:01
 4e615e93-dc74-4b0f-a5fc-a0d8349627db,strip.bz,available,21.98,26.98,high,low,5,namecheap,,,24/09/2026 05:53
+062c1ba7-de90-49ab-884a-cf3052027159,escalate.bz,available,18.88,18.88,high,low,8,dynadot,,,02/10/2026 06:44
+a04fdceb-afe0-44b3-b6ca-8f4f56b65747,redwood.bz,available,21.98,26.98,high,low,7,namecheap,,,02/10/2026 06:14
+fbe4e2ee-7d83-4946-84cc-b6bdc43ea978,raquel.bz,available,21.98,26.98,high,low,6,namecheap,,,02/10/2026 08:53
 e61c16b5-6543-4ba5-9c53-ec6d8713ec27,lammas.bz,available,21.98,26.98,medium,low,6,namecheap,,,21/09/2026 03:43
 3642f151-16f2-407a-987f-cf04d0dfb985,kensington.bz,available,21.98,26.98,high,low,10,namecheap,,,30/09/2026 12:20
 e7761d38-2e19-46c7-bd62-ac3051bdaa23,jiangxi.bz,available,18.88,18.88,medium,low,7,dynadot,,,01/10/2026 09:43
@@ -268,6 +281,7 @@ f2a6d751-dc29-48d3-a9a7-7d664c8bc693,censorship.bz,available,21.98,26.98,medium,
 2a00d1c4-3412-4eb3-a66a-8edcd366e4d8,ears.bz,available,21.98,26.98,medium,low,4,namecheap,,,25/09/2026 16:57
 89d15d3e-813e-4380-bfb5-34fabf1c5887,projecting.bz,available,21.98,26.98,high,low,10,namecheap,,,22/08/2026 14:48
 457fa513-924c-401a-99b0-d389fa317850,whim.bz,available,21.98,26.98,high,low,4,namecheap,,,24/09/2026 12:39
+7c4d0904-3778-459f-a392-5563b2773928,fenway.bz,available,16.79,16.79,medium,low,6,porkbun,,,02/10/2026 09:42
 1170fa8a-b173-4b78-adb6-604d69a2385b,leased.bz,available,21.98,26.98,high,low,6,namecheap,,,12/08/2026 02:50
 16409b80-8140-4395-a9a4-b2cd6947ad20,disarray.bz,available,21.98,26.98,medium,low,8,namecheap,,,24/09/2026 17:15
 bab2074f-f3a3-4008-bd06-376d0de08c34,before.bz,available,21.98,26.98,high,low,6,namecheap,,,21/09/2026 23:34
@@ -289,6 +303,7 @@ de51bddf-1d79-4969-9b8a-0fb43baa890f,glycogen.bz,available,21.98,26.98,medium,lo
 1d46ffee-8d49-47f3-b9f8-a2294e35ecdc,rarer.bz,available,25,27.99,medium,low,5,name.com,,,20/09/2026 08:12
 3ea103ab-df54-4d82-b374-0d312cc95f9d,aphelion.bz,available,21.98,26.98,medium,low,8,namecheap,,,19/09/2026 16:55
 03f1629b-008b-4822-bf27-15244a097cde,reducible.bz,available,21.98,26.98,high,medium,9,namecheap,,,09/09/2026 12:24
+0203963c-cd6f-46cf-9827-9db4650cd38e,shrew.bz,available,18.88,18.88,high,low,5,dynadot,,,02/10/2026 06:24
 23618c70-ac67-43a6-86a8-841163d11b4e,ebenezer.bz,available,21.98,26.98,high,low,8,namecheap,,,30/09/2026 20:11
 9ba680ee-e0eb-454b-b7d7-463486c5baa8,hatted.bz,available,21.98,26.98,medium,low,6,namecheap,,,21/08/2026 01:22
 5fdc9fc2-ec9e-401f-b3db-30f5926bd987,finespun.bz,available,21.98,26.98,medium,low,8,namecheap,,,18/08/2026 04:51
@@ -301,15 +316,18 @@ daa7f48b-7368-4a3b-b1c0-b4bef96d7795,bloodshot.bz,available,21.98,26.98,medium,l
 579a63a1-18a2-41df-8dc8-b91731073542,crowds.bz,available,16.79,16.79,medium,low,6,porkbun,,,28/09/2026 17:41
 6e8aa808-0a29-48d0-808c-5eccdc2757e4,alcahest.bz,available,21.98,26.98,medium,low,8,namecheap,,,18/09/2026 03:43
 c44f90dd-76e2-496c-bf18-a8ca1ce17cd8,polythene.bz,available,18.88,18.88,medium,low,9,dynadot,,,30/09/2026 07:10
+5adda222-cfe2-4bcc-8f6b-fe5ec75138e4,britt.bz,available,18.88,18.88,high,low,5,dynadot,,,02/10/2026 23:43
 cb9df7d9-1f12-41c9-85d5-3c0753049549,blackseed.bz,available,21.98,26.98,medium,low,9,namecheap,,,24/09/2026 03:00
 2c8b850a-04e9-419a-9178-bf613bc4c113,buttoned.bz,available,21.98,26.98,medium,low,8,namecheap,,,11/08/2026 11:58
 50fe62ee-bb0c-4e79-8da7-9f7db0864bbe,geddes.bz,available,16.79,16.79,medium,low,6,porkbun,,,29/09/2026 15:03
 02b837c2-b37b-4513-ae1e-3c13ecdfe43b,kauri.bz,available,21.98,26.98,medium,low,5,namecheap,,,17/09/2026 16:32
+19c611d3-4a93-43d8-bd80-73bc77f6c71f,euros.bz,available,16.79,16.79,high,low,5,porkbun,,,03/10/2026 04:58
 1453eaac-2073-4450-bb14-4e49598fe9ac,assent.bz,available,21.98,26.98,high,low,6,namecheap,,,20/09/2026 16:09
 9de331c8-51b0-431b-a5ee-65f5f1c71cb7,stocking.bz,available,21.98,26.98,high,low,8,namecheap,,,29/09/2026 14:00
 6a443194-677c-4063-a929-af66580aa1a5,peanuts.bz,available,16.79,16.79,high,low,7,porkbun,,,28/09/2026 02:53
 c818051b-b702-4ace-9f6a-424195cb68ce,prisoners.bz,available,21.98,26.98,medium,low,9,namecheap,,,25/09/2026 20:27
 d752e5bf-a1b8-43da-a2f4-ae849f11cba0,simultaneous.bz,available,18.88,18.88,high,low,12,dynadot,,,30/09/2026 06:08
+98b2b54a-5b14-4a65-b63e-14afb96e651d,conner.bz,available,18.88,18.88,medium,low,6,dynadot,,,02/10/2026 06:52
 fa156f10-f818-4fdd-8e34-621a8500db7a,attestant.bz,available,21.98,26.98,medium,low,9,namecheap,,,21/09/2026 01:36
 6666f907-e175-4007-8550-b38a23001756,scant.bz,available,21.98,26.98,medium,low,5,namecheap,,,09/09/2026 22:36
 4f489c4f-8f50-4092-872d-7e5901a8005d,humongous.bz,available,21.98,26.98,medium,low,9,namecheap,,,08/08/2026 12:58
@@ -323,6 +341,7 @@ c8d7265d-286f-40eb-b1ae-facec1a25c0b,slander.bz,available,16.79,16.79,medium,low
 4e1b25bc-e901-41c6-8ce1-1f4f94316d79,chimerical.bz,available,21.98,26.98,medium,low,10,namecheap,,,12/08/2026 05:38
 8ee1da8f-cf1c-45dc-a16b-3123468f8f23,determine.bz,available,21.98,26.98,high,low,9,namecheap,,,30/09/2026 11:01
 de6e7f0e-2943-40a0-b9a5-a07a96555a84,predominantly.bz,available,16.79,16.79,medium,low,13,porkbun,,,01/10/2026 05:46
+bca16e1c-e693-4bfa-8484-9ce3e5a0aba0,permissible.bz,available,21.98,26.98,high,low,11,namecheap,,,02/10/2026 06:54
 71f85713-f060-464a-bb02-1d103f75dce1,stacy.bz,available,18.88,18.88,high,low,5,dynadot,,,28/09/2026 07:44
 63bd3355-4f06-4a6a-a307-3e24ceb22d26,mattie.bz,available,21.98,26.98,high,low,6,namecheap,,,30/09/2026 04:29
 aaa42d89-d9bf-48d3-91c0-78bc6a693c95,handling.bz,available,21.98,26.98,high,low,8,namecheap,,,25/09/2026 23:04
@@ -344,6 +363,7 @@ fda5601d-b6d9-4bbd-8219-db1dd7586761,starve.bz,available,16.79,16.79,medium,low,
 48a355bc-fdfd-4fee-a9b4-6888a964f925,estes.bz,available,18.88,18.88,medium,low,5,dynadot,,,28/09/2026 22:16
 862134b9-c100-429f-a7b3-a2377b7ffdf0,skull.bz,available,21.98,26.98,high,low,5,namecheap,,,26/09/2026 00:19
 10e7973c-d84d-4c74-b59e-7035a158dd98,passionately.bz,available,16.79,16.79,high,low,12,porkbun,,,01/10/2026 18:20
+edafaad0-6376-439f-9e14-7e39e7ce635c,snoring.bz,available,18.88,18.88,high,low,7,dynadot,,,02/10/2026 06:26
 ca7f840d-e5f7-44b1-9735-cb7a1834ce82,scribble.bz,available,21.98,26.98,high,low,8,namecheap,,,24/09/2026 11:35
 e1eb6696-424a-4449-a6e1-63014a0f9ef4,maids.bz,available,21.98,26.98,medium,low,5,namecheap,,,30/09/2026 00:12
 149fa23a-0403-4709-823e-da44f8942362,volunteer.bz,available,21.98,26.98,high,low,9,namecheap,,,13/09/2026 07:13
@@ -351,6 +371,7 @@ e1eb6696-424a-4449-a6e1-63014a0f9ef4,maids.bz,available,21.98,26.98,medium,low,5
 29a8704e-8dfd-4b64-b422-e77697a8391a,conformist.bz,available,21.98,26.98,high,low,10,namecheap,,,12/08/2026 21:13
 bea152a8-f8c1-420d-87a2-63124be87878,antiquated.bz,available,21.98,26.98,medium,low,10,namecheap,,,
 5c92a593-3a71-4402-865a-ef5a7dcf1afe,illumination.bz,available,21.98,26.98,high,medium,12,namecheap,,,30/09/2026 05:59
+e7f2ba3c-9f96-4a39-9f97-4c3994a787ee,acupuncture.bz,available,18.88,18.88,high,low,11,dynadot,,,02/10/2026 17:27
 87c00697-8483-426c-951b-e422d2d88698,airworthy.bz,available,21.98,26.98,medium,low,9,namecheap,,,
 e84aa4cc-344e-4b6f-8982-61205672e819,disloyal.bz,available,21.98,26.98,medium,low,8,namecheap,,,14/08/2026 11:36
 c10e2562-2a5d-4cf9-845a-ea4a735ae192,etiology.bz,available,21.98,26.98,medium,low,8,namecheap,,,17/09/2026 13:48
@@ -362,6 +383,7 @@ c10e2562-2a5d-4cf9-845a-ea4a735ae192,etiology.bz,available,21.98,26.98,medium,lo
 2c5c5349-ad1b-45ca-af07-44fa48f04ecd,benign.bz,available,21.98,26.98,medium,low,6,namecheap,,,09/08/2026 14:36
 03576b08-6d8d-4727-8a4b-0011a1d93ca2,aristotle.bz,available,21.98,26.98,high,low,9,namecheap,,,20/09/2026 05:59
 a1d4e554-378e-4cd5-99cf-8c531a5407c8,villainous.bz,available,21.98,26.98,medium,low,10,namecheap,,,03/09/2026 14:59
+e7a8de03-ca53-4de1-8438-d22398ca0abf,servicemen.bz,available,16.79,16.79,medium,low,10,porkbun,,,02/10/2026 12:09
 93caac96-8f3f-49f2-99c9-677416a295f1,mandela.bz,available,18.88,18.88,high,low,7,dynadot,,,28/09/2026 14:49
 3b81016d-21af-449d-872c-1f726b471e02,macaroni.bz,available,16.79,16.79,high,low,8,porkbun,,,01/10/2026 02:55
 489d284e-e75c-4eaf-9bd1-8ff546a2962a,swash.bz,available,21.98,26.98,medium,low,5,namecheap,,,11/08/2026 01:05
@@ -380,6 +402,7 @@ b38d9756-35ce-4307-92c2-491ed43b0d9d,passions.bz,available,16.79,16.79,medium,lo
 ed0b0063-34b6-4d94-93cf-f6aaed42a077,dividing.bz,available,18.88,18.88,medium,low,8,dynadot,,,29/09/2026 08:50
 9079c7b6-697d-46b2-8c7d-717a869a98e2,unashamed.bz,available,21.98,26.98,medium,low,9,namecheap,,,12/09/2026 01:08
 1c27e8c7-19dc-45e6-bf38-698b76e4cc91,roughish.bz,available,21.98,26.98,high,medium,8,namecheap,,,09/09/2026 19:01
+81445282-273e-4b57-91ae-1a7f80e47478,chronicles.bz,available,16.79,16.79,high,low,10,porkbun,,,03/10/2026 04:49
 e571ea5d-4eb5-400e-afa6-613626bc39ef,dislocated.bz,available,21.98,26.98,medium,low,10,namecheap,,,14/08/2026 11:31
 a2682380-1142-439d-aebb-df56111eb965,plausible.bz,available,21.98,26.98,high,low,9,namecheap,,,08/09/2026 20:55
 9b21840f-8e0c-41ea-bd13-f15af9c7c645,spectral.bz,available,21.98,26.98,high,low,8,namecheap,,,06/08/2026 05:38
@@ -394,6 +417,7 @@ f521820c-74ab-4803-9a5f-e90e5784b7ff,braggart.bz,available,21.98,26.98,medium,lo
 c82f43d4-a647-4528-b876-cd77a2bcc213,pigs.bz,available,21.98,26.98,high,low,4,namecheap,,,25/09/2026 15:51
 f03bc762-01dd-46f5-968d-5f560b59802a,starvation.bz,available,21.98,26.98,medium,low,10,namecheap,,,10/09/2026 19:06
 48edace0-ad81-4cbb-bf22-05b349c111c4,conduction.bz,available,18.88,18.88,high,low,10,dynadot,,,29/09/2026 10:47
+ed09a437-c059-4dd3-9795-0230fe9bcc30,reschedule.bz,available,18.88,18.88,high,low,10,dynadot,,,03/10/2026 02:35
 96d66330-af55-45bb-a844-ac00123160d8,frying.bz,available,18.88,18.88,high,low,6,dynadot,,,30/09/2026 09:52
 5183dadc-dedd-4e15-a02f-27e66d52f622,mocking.bz,available,21.98,26.98,medium,low,7,namecheap,,,14/08/2026 02:52
 6e7a7c6d-3f78-427d-9dbc-26f65c8ce77d,props.bz,available,18.88,18.88,high,low,5,dynadot,,,29/09/2026 07:55
@@ -417,11 +441,13 @@ ff52e16e-1c85-4138-948a-d80e60787c9b,kathleen.bz,available,21.98,26.98,high,low,
 cdc446fd-52e5-4194-b720-e63968fc5fab,ludicrous.bz,available,21.98,26.98,medium,low,9,namecheap,,,14/08/2026 02:58
 ccde6793-dcef-4204-bda9-ab169dedb042,autodidact.bz,available,21.98,26.98,high,low,10,namecheap,,,21/09/2026 06:15
 b85f099d-05ff-410e-b301-2d36fe10c171,adiabatic.bz,available,21.98,26.98,medium,low,9,namecheap,,,
+66089d71-aeab-48eb-bbc5-87cb2cc19f8b,raaf.bz,available,18.88,18.88,medium,low,4,dynadot,,,02/10/2026 08:31
 309d1e36-4fe4-43fd-904f-5044c5b94dc3,complications.bz,available,18.88,18.88,low,low,13,dynadot,,,28/09/2026 13:25
 09f397ef-b1bb-4d9d-9bb0-a37f712d6e48,methionine.bz,available,18.88,18.88,medium,low,10,dynadot,,,30/09/2026 02:16
 2073b529-3d66-414d-ae8d-d889237883b9,bridal.bz,available,21.98,26.98,high,low,6,namecheap,,,11/08/2026 03:53
 a6a3227c-a55e-40fc-86fd-bdfd89ca8b64,stormed.bz,available,21.98,26.98,medium,low,7,namecheap,,,20/09/2026 15:47
 c6ee4f33-3293-479e-8563-9c84d44e2057,indulge.bz,available,21.98,26.98,high,low,7,namecheap,,,21/09/2026 13:04
+54675329-b955-42ce-b300-2d8747c9408c,peloponnese.bz,available,16.79,16.79,medium,low,11,porkbun,,,02/10/2026 19:16
 6924dcdd-add6-44d5-bec7-db5432733b96,predicted.bz,available,16.79,16.79,medium,low,9,porkbun,,,28/09/2026 23:02
 668a405e-7296-4e26-a92e-969c63af2866,catechetic.bz,available,21.98,26.98,medium,low,10,namecheap,,,11/08/2026 21:25
 de3e1422-ec17-46d0-b6df-ef1eec5ac343,sauvignon.bz,available,21.98,26.98,medium,low,9,namecheap,,,01/10/2026 07:01
@@ -437,6 +463,7 @@ ce0c6a51-7ffc-4b10-832c-fd09b758c1eb,oracular.bz,available,21.98,26.98,medium,lo
 e36729cc-402b-4369-a21e-daa03bfa147b,headless.bz,available,21.98,26.98,medium,low,8,namecheap,,,11/08/2026 01:43
 33942988-d462-441b-a9a3-70d96efec0b3,ungummed.bz,available,21.98,26.98,low,low,8,namecheap,,,12/09/2026 11:43
 953b44b4-7b46-4edb-8708-4449621b02d1,relapsing.bz,available,21.98,26.98,medium,low,9,namecheap,,,09/09/2026 16:17
+de3fa5f1-36c2-44ff-981a-0737b46835a0,bullitt.bz,available,18.88,18.88,medium,low,7,dynadot,,,02/10/2026 10:47
 0caeb6df-243d-4ca7-93f5-2aa55e35c76c,excursion.bz,available,18.88,18.88,high,low,9,dynadot,,,29/09/2026 18:22
 c4cdb77e-d35c-4476-91db-f43e33a39bc7,toll.bz,available,18.88,18.88,high,medium,4,dynadot,,,30/09/2026 13:21
 8435c027-756b-4037-a5b4-9d6ca327f5bb,special.bz,available,21.98,26.98,high,low,7,namecheap,,,27/09/2026 04:52
@@ -458,12 +485,15 @@ cc7ef961-1b77-4b59-8491-c75172847abe,markov.bz,available,21.98,26.98,high,low,6,
 2c9fe450-21fc-477e-9977-46fcf15dae18,trivalent.bz,available,21.98,26.98,medium,low,9,namecheap,,,11/09/2026 20:13
 77fb27cd-2156-48e2-a24c-f05be157a71b,entrancing.bz,available,21.98,26.98,medium,low,10,namecheap,,,09/08/2026 18:23
 ee5c4710-95c3-4c43-b1a0-c0fde5681108,powered.bz,available,21.98,26.98,high,low,7,namecheap,,,27/09/2026 04:51
+3504553b-e598-4a99-a97c-4afbd35de342,toa.bz,available,16.79,16.79,high,low,3,porkbun,,,02/10/2026 17:59
+e2b32fd6-42c7-4e1a-8b70-ce1d2635ed9a,reba.bz,available,18.88,18.88,high,low,4,dynadot,,,02/10/2026 20:32
 4d4950eb-c90d-41af-8319-53011cd176a8,spend.bz,available,21.98,26.98,high,low,5,namecheap,,,30/09/2026 21:29
 15c8d5ad-f922-4d19-8fa8-ef9192adb4cd,mbta.bz,available,16.79,16.79,medium,low,4,porkbun,,,02/10/2026 00:06
 549d192a-1c4c-4cad-8b9d-583aa9618347,venture.bz,available,21.98,26.98,high,medium,7,namecheap,,,29/09/2026 06:12
 2f528ebe-87cd-4ce0-aa77-cbd63d0941d3,undreamt.bz,available,21.98,26.98,medium,low,8,namecheap,,,12/09/2026 08:24
 402fe80d-8316-4355-a7eb-2061a3f4f829,omnipotent.bz,available,21.98,26.98,high,low,10,namecheap,,,
 f0ea6412-7a12-4c23-8194-36c8f8273d9f,kestrel.bz,available,21.98,26.98,high,low,7,namecheap,,,18/09/2026 20:14
+7e5542ea-5673-4085-807f-f8aef1036870,mounds.bz,available,18.88,18.88,low,low,6,dynadot,,,02/10/2026 13:16
 3c9f1d8e-2d61-415e-b1f1-73d0e684963b,prophecies.bz,available,21.98,26.98,medium,low,10,namecheap,,,01/10/2026 17:36
 388f1e82-d6f8-49d9-8b63-d4292b53b9dd,withering.bz,available,21.98,26.98,medium,low,9,namecheap,,,
 38fb6037-c6f6-4e1b-8a52-a0383a440237,scrutinise.bz,available,25,27.99,high,low,10,name.com,,,21/09/2026 03:07
@@ -487,7 +517,7 @@ de7335bf-648a-4fd2-a318-a6d8b7a8b10c,bike.bz,resell,,,high,low,4,Porkbun LLC,22/
 c8c84c2d-2e06-43e6-9ef0-a0c32ab2933b,daydream.bz,available,21.98,26.98,high,low,8,namecheap,,,17/09/2026 22:00
 137df730-da2e-4cbb-bc89-4af11bd395d6,raging.bz,available,21.98,26.98,high,medium,6,namecheap,,,09/09/2026 09:44
 298d9db5-b529-449b-bb91-f44f61bbddbd,microwave.bz,available,18.88,18.88,high,low,9,dynadot,,,30/09/2026 04:20
-7dc53111-761c-419f-942d-32cb97fa144e,whitefish.bz,available,25,,medium,low,10,name.com,,,
+7dc53111-761c-419f-942d-32cb97fa144e,whitefish.bz,available,16.79,16.79,medium,low,10,porkbun,,,03/10/2026 04:13
 aa2900e4-14b1-4346-99f1-6d4a2dd91940,fell.bz,available,21.98,26.98,medium,low,4,namecheap,,,08/08/2026 15:49
 58d71213-fec5-4528-8999-49838dad5e33,beheading.bz,available,21.98,26.98,medium,low,9,namecheap,,,23/09/2026 03:20
 6a807dfa-a7ae-4249-b1bf-51bc5380a373,andiron.bz,available,21.98,26.98,medium,low,7,namecheap,,,19/09/2026 04:06
@@ -495,6 +525,7 @@ eb5c6af6-955b-449a-82c0-0f2369eb1bda,stabilization.bz,available,21.98,26.98,medi
 fa439fd5-bbf9-4bcc-a651-823994751f7d,dogs.bz,available,21.98,26.98,high,low,4,namecheap,,,17/09/2026 11:22
 56c8d99f-5938-4627-a4ac-a5e0852ec1b3,cases.bz,available,21.98,26.98,medium,low,5,namecheap,,,17/09/2026 16:31
 4d63c6c8-d48d-4698-a7df-a970f49eee1b,geometry.bz,available,16.79,16.79,high,low,8,porkbun,,,29/09/2026 20:49
+b2b4d362-5172-4787-b927-4c77e38486b3,legislator.bz,available,21.98,26.98,high,low,10,namecheap,,,02/10/2026 15:55
 f3cf616f-637f-48b3-838d-2fe3d2a40681,callous.bz,available,21.98,26.98,medium,low,7,namecheap,,,11/08/2026 14:30
 703aba13-4685-4e2a-b718-3e6d36d54cf8,knit.bz,available,29.99,29.99,high,low,4,godaddy,,,30/09/2026 02:06
 5625c572-cbf6-4d56-bf5c-b3ff9e74b430,unspeakable.bz,available,16.79,16.79,medium,low,11,porkbun,,,01/10/2026 05:49
@@ -513,7 +544,9 @@ aadd546d-97ea-45a1-b47a-dde4cf72631b,restraining.bz,available,21.98,26.98,medium
 641729c0-753d-4d8c-985d-7cef5fb010c6,textured.bz,available,21.98,26.98,medium,low,8,namecheap,,,12/08/2026 14:07
 6d6e6304-0f07-4f75-b7e7-ffe844a3d4f8,becloud.bz,available,21.98,26.98,medium,low,7,namecheap,,,03/09/2026 23:53
 4b8eedb9-0d30-452a-ac66-33b0af8680c4,nullified.bz,available,21.98,26.98,medium,low,9,namecheap,,,22/08/2026 08:56
+8aaf5b3a-ae1b-41f9-bb78-12f72a2bd131,westover.bz,available,18.88,18.88,medium,low,8,dynadot,,,02/10/2026 20:26
 b356d3e0-d85a-478d-a9b7-552a9b76ca84,thing.bz,available,21.98,26.98,high,low,5,namecheap,,,28/09/2026 19:13
+f8a6ea3f-51c0-4192-96b0-6ddd29ef8341,slacks.bz,available,21.98,26.98,high,low,6,namecheap,,,03/10/2026 02:08
 34e13a87-9160-4eaf-830e-c1039da8811c,gaa.bz,available,21.98,26.98,high,low,3,namecheap,,,29/09/2026 08:40
 2a69e4aa-1356-434d-91bb-d8c7de35c6c1,shrink.bz,available,29.99,29.99,high,low,6,godaddy,,,28/09/2026 01:56
 4c0d47a5-1e51-4025-917c-0803cf99943f,chill.bz,available,21.98,26.98,high,low,5,namecheap,,,23/09/2026 23:04
@@ -568,9 +601,13 @@ a6d77158-af7a-44a4-aa07-362ffd4ccca4,marlowe.bz,available,18.88,18.88,medium,low
 bd4fec25-8fa3-4029-bdce-108fcdd3bd86,carly.bz,available,18.88,18.88,high,low,5,dynadot,,,29/09/2026 15:23
 a0d26948-9517-4eda-bf39-21d4155b43cf,outlines.bz,available,18.88,18.88,medium,low,8,dynadot,,,02/10/2026 03:08
 3f97e9ac-ed6f-41d3-9843-55d789dd7d79,callow.bz,available,21.98,26.98,high,high,6,namecheap,,,11/08/2026 14:48
+8f8c0d01-4dbd-439b-8942-9a6381195921,brattleboro.bz,available,21.98,26.98,high,low,11,namecheap,,,02/10/2026 19:07
 ab3170d4-cbeb-4eac-ab82-01b339cdf96b,dead.bz,resell,,,high,low,4,"GoDaddy.com, LLC",20/04/2016 22:43,20/04/2027 22:43,26/09/2026 05:26
+ab3ac625-381c-4596-b29f-f8824797f142,pompey.bz,available,18.88,18.88,medium,low,6,dynadot,,,03/10/2026 00:58
 74dc8a8a-ef5a-4f83-b61a-4bba61cabf44,unreached.bz,available,21.98,26.98,medium,low,9,namecheap,,,04/09/2026 18:48
+26c2f59a-46d3-4de3-a9e6-5495c4bd3864,uscg.bz,available,16.79,16.79,medium,low,4,porkbun,,,02/10/2026 19:31
 720ff3fb-7292-480a-83e2-4be216d57315,invariable.bz,available,21.98,26.98,high,low,10,namecheap,,,12/08/2026 22:58
+2274a646-c838-4f55-a878-92e20deb2d2e,serenade.bz,available,16.79,16.79,high,low,8,porkbun,,,02/10/2026 14:51
 cee509dc-e735-49f2-8c15-4ff9fd92e8e0,revelations.bz,available,18.88,18.88,medium,low,11,dynadot,,,30/09/2026 15:02
 e4d31b66-8cf4-422d-9a2f-676da1bbd966,retch.bz,available,21.98,26.98,high,medium,5,namecheap,,,10/09/2026 07:37
 8d736040-384d-446e-bfa9-5a46c90f899d,nonfinite.bz,available,21.98,26.98,medium,low,10,namecheap,,,03/09/2026 18:26
@@ -587,6 +624,7 @@ c7566a07-422d-43d2-96ff-d2d2fca42f79,bettor.bz,available,21.98,26.98,medium,low,
 8fbd5c9e-815d-43af-a08a-480cc6dd33d5,applaud.bz,available,18.88,18.88,high,low,7,dynadot,,,30/09/2026 15:09
 e6e7a814-c189-48ec-91b4-1fbd05572308,essayer.bz,available,21.98,26.98,medium,low,7,namecheap,,,21/09/2026 01:22
 6ae3c7e3-140a-47b5-90f4-a2e54829ea2d,rollover.bz,available,21.98,26.98,high,low,9,namecheap,,,16/09/2026 17:22
+0793c477-f008-4dd3-b5c5-557a95bc5c2c,impatience.bz,available,16.79,16.79,medium,low,10,porkbun,,,02/10/2026 15:48
 a1019c84-ad75-44fc-9542-7caa73802c70,lui.bz,available,16.79,16.79,medium,low,3,porkbun,,,29/09/2026 15:19
 23fc212c-6724-4e9f-a290-8d85782c4dae,plumber.bz,available,21.98,26.98,high,low,7,namecheap,,,29/09/2026 20:00
 b8413ed2-4760-4cdf-9512-4fca9bc40b22,assurgent.bz,available,21.98,26.98,medium,low,9,namecheap,,,07/08/2026 08:26
@@ -598,19 +636,24 @@ cefb09d6-8639-41eb-989a-7147f18f184c,osceola.bz,available,16.79,16.79,medium,low
 6ce3e8b7-08be-44a7-acb7-1b04a37fffcd,rewarded.bz,available,18.88,18.88,medium,low,8,dynadot,,,28/09/2026 23:21
 0fe0dc0f-9a0c-4606-9bc7-b7a32d1b358a,anagnost.bz,available,21.98,26.98,medium,low,8,namecheap,,,19/09/2026 01:26
 21e4bc34-93ba-4420-bdbe-e8b2de15ec55,gujarati.bz,available,21.98,26.98,high,low,8,namecheap,,,30/09/2026 09:59
+e202286c-5616-4081-b475-9593505e6f9d,spook.bz,available,16.79,16.79,high,low,5,porkbun,,,03/10/2026 00:19
 21ca23bc-de07-413f-af0f-435995ccaaf8,ivor.bz,available,18.88,18.88,medium,low,4,dynadot,,,29/09/2026 22:08
 a44a50ba-d081-4cd4-abd8-685b4b19d5b2,regions.bz,available,21.98,26.98,high,medium,7,namecheap,,,17/09/2026 14:38
 9e262948-460c-4a3c-afbb-d238456cb458,atomism.bz,available,21.98,26.98,medium,low,7,namecheap,,,21/09/2026 00:24
 5d6c0464-0e1c-40cc-ac39-823c98f15317,bipolar.bz,available,21.98,26.98,high,low,7,namecheap,,,10/08/2026 05:30
+16957c15-9326-4cd0-b5f4-238d0951377f,dalit.bz,available,21.98,26.98,high,low,5,namecheap,,,03/10/2026 03:49
 e9179296-e3ff-498b-ac82-0def506bd7d1,cambria.bz,available,16.79,16.79,high,low,7,porkbun,,,29/09/2026 18:09
 49c6b969-f747-4d88-b8c1-386cbb0b661f,trumpery.bz,available,21.98,26.98,medium,low,8,namecheap,,,18/08/2026 23:50
 349ffd2a-1e6d-4f81-af0a-3bcf48c6edde,straying.bz,available,21.98,26.98,medium,low,8,namecheap,,,10/09/2026 22:14
 7b66d8ab-a2b6-468a-8c5d-582b658c7f31,zagreb.bz,available,21.98,26.98,high,low,6,namecheap,,,28/09/2026 06:54
 76c63b18-dadf-4e01-838d-c1cc14c62865,financially.bz,available,21.98,26.98,medium,low,11,namecheap,,,28/09/2026 12:33
+7c5ceb9a-fb88-4ac7-8766-4aa0826816b6,srpska.bz,available,16.79,16.79,medium,low,6,porkbun,,,02/10/2026 10:14
+ea53214e-231a-4e36-9ccf-0b5e2d881884,designation.bz,available,18.88,18.88,high,low,11,dynadot,,,02/10/2026 11:41
 edb4c7ab-ef99-4f7f-a379-72c327dce641,islamic.bz,available,21.98,26.98,high,low,7,namecheap,,,22/08/2026 10:50
 4d3c0d10-9158-4b38-9599-f8b273ebf9a6,taiping.bz,available,18.88,18.88,high,low,7,dynadot,,,01/10/2026 23:31
 a09b43a6-781c-4979-a6b4-1478ec833b11,welding.bz,available,21.98,26.98,high,low,7,namecheap,,,30/09/2026 11:19
 a4a501c8-1763-4c65-8adf-0406713ae203,fiberoptic.bz,available,21.98,26.98,medium,low,10,namecheap,,,18/08/2026 03:12
+04f636b0-b1eb-43dd-8527-cbf545fa9157,eleazar.bz,available,21.98,26.98,medium,low,7,namecheap,,,02/10/2026 09:32
 6194f063-a81c-436c-845f-bf7ca19ac1e9,coordination.bz,available,18.88,18.88,high,low,12,dynadot,,,01/10/2026 16:03
 0cf8a298-5d7c-4d0f-899e-df8d0784bb3f,crappy.bz,available,21.98,26.98,medium,low,6,namecheap,,,13/08/2026 05:12
 ab67daa8-656e-4949-a994-6a17a0784076,sears.bz,available,21.98,26.98,high,low,5,namecheap,,,29/09/2026 04:28
@@ -620,8 +663,9 @@ ab67daa8-656e-4949-a994-6a17a0784076,sears.bz,available,21.98,26.98,high,low,5,n
 dc1f853e-e421-464d-a2f0-5025cef9ddfa,readers.bz,available,21.98,26.98,high,low,7,namecheap,,,28/09/2026 17:52
 b1643562-64ed-4bce-8a1c-5d484213495a,jacksonville.bz,available,18.88,18.88,high,low,12,dynadot,,,30/09/2026 04:53
 cd7674b4-ff92-4673-bf3a-eed3e3b00d2f,notability.bz,available,21.98,26.98,high,low,10,namecheap,,,03/09/2026 22:04
-c360a4d0-2a2c-49d9-bbe9-3b5e9669c715,gregg.bz,available,25,,high,low,5,name.com,,,
+c360a4d0-2a2c-49d9-bbe9-3b5e9669c715,gregg.bz,available,21.98,26.98,high,low,5,namecheap,,,02/10/2026 13:28
 484248c1-6bb5-4922-9019-d64a43981280,bernadette.bz,available,18.88,18.88,medium,low,10,dynadot,,,30/09/2026 05:01
+e91fae90-6cc2-4e61-9ce9-66debdb15cf6,ussr.bz,available,21.98,26.98,high,medium,4,namecheap,,,02/10/2026 16:40
 d6f72743-e670-4b0d-b72b-44e70e0e6af2,twiggy.bz,available,21.98,26.98,medium,low,6,namecheap,,,11/09/2026 21:34
 0462cd15-0114-4b62-b69f-00c786a34c08,stripping.bz,available,21.98,26.98,medium,low,9,namecheap,,,22/09/2026 05:59
 7c262c5b-7620-497b-9944-42875618e574,wintry.bz,available,21.98,26.98,medium,low,6,namecheap,,,18/08/2026 16:31
@@ -660,6 +704,7 @@ de82f482-84e3-4afe-9299-fdb88b39fb73,lunar.bz,available,25,27.99,high,medium,5,n
 67cea302-b5ff-49ef-ad09-27df8946c111,buxom.bz,available,21.98,26.98,medium,low,5,namecheap,,,10/08/2026 20:28
 e70aa8bc-e3a9-4282-9d11-f642a3d727e8,avionic.bz,available,21.98,26.98,medium,low,7,namecheap,,,07/08/2026 23:35
 619f6494-629e-4143-9db5-0663d0d3a961,spat.bz,available,21.98,26.98,high,low,4,namecheap,,,23/09/2026 13:13
+0b79d314-4155-48d1-bbfc-6de91be25232,penrith.bz,available,18.88,18.88,high,low,7,dynadot,,,02/10/2026 09:37
 f8ddb971-a59b-425c-a99e-72df0db87339,rotc.bz,available,18.88,18.88,medium,low,4,dynadot,,,29/09/2026 02:02
 bb9fc5ad-559d-44b2-b66b-f69dfaead45b,viewing.bz,available,16.79,16.79,high,low,7,porkbun,,,29/09/2026 02:05
 4f8ab059-a392-4494-baad-d33965ccab34,hexagonal.bz,available,21.98,26.98,medium,low,9,namecheap,,,21/08/2026 07:50
@@ -667,11 +712,14 @@ bb9fc5ad-559d-44b2-b66b-f69dfaead45b,viewing.bz,available,16.79,16.79,high,low,7
 05617a85-e6f7-4bfe-b39f-679d810a2e8f,unvoiced.bz,available,21.98,26.98,medium,low,8,namecheap,,,11/09/2026 03:39
 6ec532a8-4c8c-4207-b898-9a0503c673b1,conflicts.bz,available,21.98,26.98,medium,low,9,namecheap,,,19/09/2026 21:22
 ffa330d8-cc80-4642-a6ac-56f78b48b153,psychiatrists.bz,available,21.98,26.98,medium,low,13,namecheap,,,01/10/2026 00:58
+c187f3a6-46f1-4234-803c-9c2685f43a62,toda.bz,available,18.88,18.88,medium,low,4,dynadot,,,03/10/2026 02:16
 d0129fbb-a701-4b41-9d1e-15c79183516b,angevine.bz,available,21.98,26.98,medium,low,8,namecheap,,,19/09/2026 06:07
+8f4500c4-f16a-42ac-903e-c5901c4b52b8,cashmere.bz,available,21.98,26.98,high,low,8,namecheap,,,02/10/2026 23:52
 9fb66c18-fb8b-44d9-922b-1cd6670a18e9,aranyaka.bz,available,21.98,26.98,medium,low,8,namecheap,,,20/09/2026 00:08
 0ea63611-80f7-4e2a-af86-1c952ce78372,tolerant.bz,available,21.98,26.98,high,low,8,namecheap,,,22/08/2026 19:55
 0fe195c3-7c71-44ab-bdd4-2859f3a61234,respondents.bz,available,21.98,26.98,medium,low,11,namecheap,,,25/09/2026 21:41
 4f3bdf99-a3fa-4c2f-9ddd-97cabdfd9cb6,inefficient.bz,available,16.79,16.79,medium,low,11,porkbun,,,01/10/2026 22:26
+76eef66c-06c7-4793-860e-7443dbbe78d9,synchro.bz,available,18.88,18.88,high,low,7,dynadot,,,02/10/2026 06:22
 de0fac97-a4b2-44dd-8953-2a6cbc141421,sweetly.bz,available,21.98,26.98,high,low,7,namecheap,,,11/09/2026 05:33
 b8150497-0d13-4bed-930f-58d8fc0fc232,phyllis.bz,available,18.88,18.88,medium,low,7,dynadot,,,28/09/2026 07:46
 01d74041-9add-4750-b891-83cec9d03987,nimbly.bz,available,21.98,26.98,medium,low,6,namecheap,,,13/09/2026 18:18
@@ -683,6 +731,7 @@ c9614b38-dd10-43ab-a9b7-3b977ccc1a1f,austral.bz,available,21.98,26.98,medium,low
 b7377fd3-44bf-4557-8449-1aafb2727a94,aboard.bz,available,18.88,18.88,high,low,6,dynadot,,,28/09/2026 11:33
 11e1db44-b165-41aa-ad55-1fc5aa05a15b,thessaly.bz,available,21.98,26.98,medium,low,8,namecheap,,,30/09/2026 11:10
 ec30d5a6-f7fa-4dc3-8136-c35a6afad544,wages.bz,available,16.79,16.79,high,low,5,porkbun,,,30/09/2026 10:15
+ddd4de3d-6b75-486a-a618-7d95ae6b9fea,appointing.bz,available,21.98,26.98,medium,low,10,namecheap,,,02/10/2026 11:49
 92a654f0-aa10-4029-aba6-24666a27388d,abysmal.bz,available,21.98,26.98,medium,low,7,namecheap,,,
 8fa0647d-e768-45a3-ac5a-bd67d9ac7c5c,thankful.bz,available,21.98,26.98,high,low,8,namecheap,,,24/09/2026 22:54
 f048461a-552f-4168-9be0-f11911cb5a55,suffered.bz,available,21.98,26.98,low,low,8,namecheap,,,27/09/2026 02:46
@@ -700,13 +749,14 @@ f763f051-8fec-4d8c-bcb6-92afad8d6af0,guerra.bz,available,18.88,18.88,medium,low,
 5b4c2760-34eb-4c19-b5d4-f6094e2e28e6,praising.bz,available,21.98,26.98,high,low,8,namecheap,,,22/08/2026 20:53
 633d3b45-cc6d-41d0-a63e-27c1ce5fd3dc,stabilize.bz,available,21.98,26.98,high,low,9,namecheap,,,30/09/2026 03:14
 07588f66-998c-4a1d-b1d9-892d5b60dda0,crashes.bz,available,21.98,26.98,low,low,7,namecheap,,,29/09/2026 05:45
-77bedce6-6181-40ec-a5d3-a9b0ee2b850a,subjects.bz,available,25,,medium,low,8,name.com,,,
+77bedce6-6181-40ec-a5d3-a9b0ee2b850a,subjects.bz,available,16.79,16.79,medium,low,8,porkbun,,,02/10/2026 15:43
 13fb9051-5041-4c26-8dd0-46336abac671,metameric.bz,available,21.98,26.98,medium,low,9,namecheap,,,24/08/2026 21:39
 c975570f-d93d-489c-951d-c1c843226632,bereft.bz,available,21.98,26.98,low,low,6,namecheap,,,09/08/2026 15:05
 c1b28192-b868-48fa-b5d0-4bc55ccd6bc1,marne.bz,available,18.88,18.88,medium,low,5,dynadot,,,29/09/2026 15:38
 b51a3b3e-c2b3-43b4-8ec1-e2733af058e7,month.bz,available,16.79,16.79,high,low,5,porkbun,,,29/09/2026 05:48
 68c9bb96-be10-48fe-b7de-99f136c4d79f,alchemist.bz,available,21.98,26.98,high,low,9,namecheap,,,18/09/2026 03:58
 4acee549-ebda-4e77-b220-7ab028c34257,aborigine.bz,available,21.98,26.98,high,low,9,namecheap,,,
+f175ee8d-9413-48b9-b7a3-87389ce17f77,pottsville.bz,available,21.98,26.98,medium,low,10,namecheap,,,02/10/2026 10:34
 1a181646-b4dd-462f-840f-1b4dec867713,logy.bz,available,21.98,26.98,medium,low,4,namecheap,,,18/08/2026 09:55
 01948604-e997-4e27-9fe6-9cd98a94c4b0,undermining.bz,available,21.98,26.98,medium,low,11,namecheap,,,01/10/2026 15:46
 8c03af03-35b1-4e38-85f8-6a131f5f3e78,district.bz,available,16.79,16.79,high,low,8,porkbun,,,29/09/2026 16:18
@@ -724,20 +774,24 @@ b69a8d08-74f2-4c69-8ae8-9429d1f0ed5a,berberis.bz,available,25,27.99,high,low,8,n
 2e2f85e9-9d8c-4bc5-bb48-816025f0bda9,pond.bz,available,18.88,18.88,high,low,4,dynadot,,,27/09/2026 15:18
 4f9c623f-df03-4400-8e78-be6d544f513a,paraffin.bz,available,21.98,26.98,high,low,8,namecheap,,,18/09/2026 08:24
 ef0d8b71-175f-497c-a73d-a412ad4dce3f,considering.bz,available,21.98,26.98,medium,low,11,namecheap,,,26/09/2026 03:06
+024c2a20-93c0-4ebe-abee-102588c76bc7,circulatory.bz,available,21.98,26.98,high,low,11,namecheap,,,03/10/2026 03:21
 cf2354ff-86c6-490f-8224-6b0f489064c1,cruel.bz,available,21.98,26.98,high,low,5,namecheap,,,22/09/2026 17:21
 a742aa44-5aea-4761-ad3b-db562a1a9699,triangle.bz,available,18.88,18.88,high,low,8,dynadot,,,28/09/2026 09:33
 2cd88778-a2d5-4275-bbe8-c9da0fa0725e,accountants.bz,available,21.98,26.98,medium,low,11,namecheap,,,20/09/2026 02:26
+cbe735c4-85db-4af3-bb7b-ade7c07017f8,chandelier.bz,available,18.88,18.88,high,low,10,dynadot,,,02/10/2026 23:56
 2598161a-b611-4795-915a-3085cb08d1c6,antoinette.bz,available,16.79,16.79,high,low,10,porkbun,,,01/10/2026 08:30
 23e2d30f-68b9-4415-8ae9-0e323d84cd2d,ditches.bz,available,18.88,18.88,medium,low,7,dynadot,,,02/10/2026 03:20
 2c645445-49a4-40a8-85ce-bbb531916335,hemal.bz,available,21.98,26.98,medium,low,5,namecheap,,,20/08/2026 21:41
 8802932d-3cb0-42b1-9dc1-6d1f4e0e8181,petitioner.bz,available,21.98,26.98,medium,low,10,namecheap,,,11/09/2026 03:30
 2f973435-853d-41e5-8907-7d93fcc851af,slump.bz,available,21.98,26.98,high,low,5,namecheap,,,30/09/2026 09:25
+716c3aad-eae4-4ea1-b766-a7ab70e88e5b,villarreal.bz,available,21.98,26.98,medium,low,10,namecheap,,,03/10/2026 05:55
 1c1ae41e-3364-47f4-be79-13347b68bc48,snowed.bz,available,25,27.99,medium,low,6,name.com,,,20/09/2026 16:23
 81df9fc9-a631-48d1-9ac9-e606416da902,belgique.bz,available,21.98,26.98,high,high,8,namecheap,,,23/09/2026 05:10
 58013e4c-4882-4c40-96fb-45827ef60a78,meshing.bz,available,21.98,26.98,high,low,7,namecheap,,,22/08/2026 08:10
 557f7c87-1bdf-4cee-bddb-f5f750612219,mitterrand.bz,available,21.98,26.98,medium,low,10,namecheap,,,02/10/2026 04:57
 90c9c566-0656-4859-873c-c354da284d58,ruandan.bz,available,21.98,26.98,high,medium,7,namecheap,,,09/09/2026 19:11
 a6d9b021-b20b-4dc3-b24d-152acdb39f38,lidar.bz,available,21.98,26.98,high,low,5,namecheap,,,01/10/2026 20:19
+c73dda2a-4c50-41c7-9dd2-1607f3b6e7ac,hunk.bz,available,21.98,26.98,high,low,4,namecheap,,,02/10/2026 15:45
 c0b48a16-11c5-4242-bdd4-a6afaff92c0d,diplomate.bz,available,16.79,16.79,high,low,9,porkbun,,,29/09/2026 15:07
 1d033233-4d2f-489c-9221-7ff518cb983d,unusual.bz,available,18.88,18.88,high,low,7,dynadot,,,28/09/2026 01:29
 3194b6fa-c77d-431e-91f6-da7f7379e5b5,arpeggio.bz,available,21.98,26.98,high,low,8,namecheap,,,20/09/2026 08:37
@@ -745,6 +799,7 @@ c0b48a16-11c5-4242-bdd4-a6afaff92c0d,diplomate.bz,available,16.79,16.79,high,low
 e6095160-d17f-4852-bc1c-6e576c7a7447,mixes.bz,available,29.99,29.99,medium,low,5,godaddy,,,01/10/2026 00:35
 8a24c5c3-a6e6-48e3-8292-4f613a6f8634,eia.bz,available,18.88,18.88,high,low,3,dynadot,,,29/09/2026 21:53
 8de6599d-45a9-4afb-b661-1626a76daad7,democracy.bz,available,18.88,18.88,high,low,9,dynadot,,,29/09/2026 13:54
+aa99c2cb-ef72-49fd-bc8d-4ab48aa8a618,ballads.bz,available,21.98,26.98,medium,low,7,namecheap,,,02/10/2026 13:40
 042a894b-60b7-4248-b949-3844b3298028,appearances.bz,available,16.79,16.79,low,low,11,porkbun,,,28/09/2026 23:35
 d41385af-fe86-493b-b983-c3a81224b0af,yank.bz,available,21.98,26.98,high,low,4,namecheap,,,13/09/2026 14:14
 11c5a744-dd13-46d6-8a97-a8fda10c313f,saltish.bz,available,21.98,26.98,high,medium,7,namecheap,,,09/09/2026 20:57
@@ -762,9 +817,10 @@ bef7a209-0652-4472-be4a-289477aeb06e,pianist.bz,available,21.98,26.98,high,low,7
 6967d7ec-1142-4d6a-bff6-b75be41b92ce,blarney.bz,available,21.98,26.98,high,medium,7,namecheap,,,12/08/2026 14:21
 d40c0a97-25e9-473c-ae6d-d233d461b5ee,thoreau.bz,available,18.88,18.88,high,low,7,dynadot,,,29/09/2026 13:02
 2f33568c-8586-4213-8c70-be9cd61354cf,lifespan.bz,available,21.98,26.98,high,low,8,namecheap,,,01/10/2026 20:20
+62c2c839-602b-4d0f-8613-4425a6f97a45,alicante.bz,available,16.79,16.79,high,low,8,porkbun,,,02/10/2026 19:41
 b7e50e01-80e0-48ba-97f8-b95653743b5c,complexly.bz,available,21.98,26.98,medium,low,9,namecheap,,,14/09/2026 07:45
 a9c705e4-a93d-46ae-9f44-e01527aa13db,pudendal.bz,available,21.98,26.98,medium,low,8,namecheap,,,09/09/2026 05:28
-e4ce4156-e3ef-47c5-ae66-e9761f7c9269,midterm.bz,available,18.88,18.88,high,low,7,dynadot,,,01/10/2026 20:32
+e4ce4156-e3ef-47c5-ae66-e9761f7c9269,midterm.bz,available,21.98,26.98,high,low,7,namecheap,,,02/10/2026 21:44
 883e7ec2-b6e4-4f6d-9d0f-f27d20521629,submarines.bz,available,16.79,16.79,medium,low,10,porkbun,,,29/09/2026 17:53
 84bff69c-1c67-46df-abe0-6efd54984e58,possibility.bz,available,21.98,26.98,high,low,11,namecheap,,,25/09/2026 16:40
 b6bada92-3f5e-4bce-81c9-caa80ea28101,bilirubin.bz,available,21.98,26.98,medium,low,9,namecheap,,,23/09/2026 15:56
@@ -785,6 +841,7 @@ a68c63a1-3656-429e-9bd5-554f59027a44,germans.bz,available,21.98,26.98,medium,low
 300c02a0-c0b8-46da-86b7-706ac96285b3,climbing.bz,available,21.98,26.98,high,low,8,namecheap,,,24/09/2026 15:41
 29e1a324-4abc-4f2f-9bee-6947c33df483,unclutter.bz,available,21.98,26.98,high,low,9,namecheap,,,12/08/2026 10:28
 5dd841a9-5667-4099-a43f-e7d65aeb876f,bombast.bz,available,21.98,26.98,medium,low,7,namecheap,,,24/09/2026 03:35
+937580bf-7d62-4b0f-a698-d849ba9d2bd8,purify.bz,available,16.79,16.79,high,low,6,porkbun,,,02/10/2026 06:43
 537b030d-6d11-4740-97a2-073fc9552367,spindles.bz,available,16.79,16.79,medium,low,8,porkbun,,,30/09/2026 00:48
 7ee1798c-51f4-4489-a3a3-10ce7a709aba,sphincter.bz,available,21.98,26.98,medium,low,9,namecheap,,,19/09/2026 03:31
 fe539d48-6849-4f29-ba71-01c0a39ae021,intellectuals.bz,available,21.98,26.98,medium,low,13,namecheap,,,01/10/2026 00:59
@@ -797,6 +854,7 @@ c1a07aa3-6a37-4305-8c82-8a84803dc82d,camwood.bz,available,21.98,26.98,medium,low
 d2840763-f6b5-411e-aec9-57ff427246bb,sculptor.bz,available,21.98,26.98,medium,low,8,namecheap,,,30/09/2026 02:48
 8b99f7ec-d0cc-46de-b4ef-dda2be8a9ef4,resistances.bz,available,29.99,29.99,medium,low,11,godaddy,,,01/10/2026 00:39
 41850640-53d0-49fb-b0fc-c6a485103210,brooklyn.bz,available,21.98,26.98,high,low,8,namecheap,,,24/09/2026 10:45
+14037bf5-8f12-4de3-bd9b-c2d9879dec73,foreclosure.bz,available,21.98,26.98,medium,low,11,namecheap,,,02/10/2026 12:40
 442988d2-0c14-436f-a307-d78dbabd4a0a,babbitt.bz,available,21.98,26.98,medium,low,7,namecheap,,,21/09/2026 12:17
 c91e0ee2-3742-4738-87a7-14af26e5d8f5,anapest.bz,available,21.98,26.98,medium,low,7,namecheap,,,19/09/2026 02:04
 2d14e116-d18c-4622-a195-7dc9a3f729e7,rink.bz,available,16.79,16.79,high,low,4,porkbun,,,01/10/2026 03:34
@@ -816,7 +874,7 @@ cc1329b7-d453-4765-a49c-616a2bbb2f8d,montgomery.bz,available,21.98,26.98,high,lo
 59f33e49-22ac-4d83-b500-56af8e59ee12,abloom.bz,available,21.98,26.98,medium,low,6,namecheap,,,
 47929641-9fd5-4fd6-8283-ef58a14533e8,assignable.bz,available,21.98,26.98,medium,low,10,namecheap,,,07/08/2026 06:19
 cd6a01fd-d612-4a79-8a24-c33a271df877,overture.bz,available,16.79,16.79,high,low,8,porkbun,,,30/09/2026 18:16
-c223d085-8d0e-45fb-a114-cc852e114320,qualification.bz,available,25,,high,low,13,name.com,,,
+c223d085-8d0e-45fb-a114-cc852e114320,qualification.bz,available,16.79,16.79,high,low,13,porkbun,,,03/10/2026 01:01
 dda9105f-5c8e-4982-8d43-ff93518d530f,arbitrate.bz,available,21.98,26.98,high,low,9,namecheap,,,22/08/2026 08:17
 83e676ee-5d78-4fbe-a32b-eb7a4d8c4460,crimes.bz,available,16.79,16.79,high,low,6,porkbun,,,01/10/2026 21:40
 1d47ead8-d91e-4fed-8250-c40f80df4446,davids.bz,available,16.79,16.79,high,low,6,porkbun,,,01/10/2026 15:28
@@ -828,6 +886,7 @@ caab3eac-ab3d-40d1-8775-678a9b1b62e1,boca.bz,available,18.88,18.88,high,low,4,dy
 3c9f1b6b-00ed-4e5e-803f-dd1a0614ec39,nights.bz,available,21.98,26.98,high,low,6,namecheap,,,17/09/2026 22:10
 d1bfec9f-3dbe-4f12-8ad7-186970c22343,thereafter.bz,available,21.98,26.98,high,low,10,namecheap,,,16/09/2026 08:38
 015799b5-ef21-4ea0-9e6b-04458126442a,habitually.bz,available,21.98,26.98,medium,low,10,namecheap,,,14/09/2026 22:45
+953e6ee9-a33b-4247-8709-f27d7954234f,strafford.bz,available,21.98,26.98,medium,low,9,namecheap,,,02/10/2026 20:46
 a38140aa-82f9-4ef2-95ba-084021de81ed,quarter.bz,available,21.98,26.98,high,low,7,namecheap,,,28/09/2026 00:50
 cce53ea6-a642-4fe4-b128-b778141cc4a5,mysteriously.bz,available,16.79,16.79,medium,low,12,porkbun,,,30/09/2026 04:03
 c64cfe5e-3b4f-4049-b131-8d48df96b921,crack.bz,available,21.98,26.98,high,low,5,namecheap,,,
@@ -846,8 +905,11 @@ eec1bb74-0ebf-4e97-9c3e-fcae0ba9cbf1,aerides.bz,available,25,27.99,medium,low,7,
 327a932f-0e5c-4f47-9b28-8f5e088951be,lunisolar.bz,available,21.98,26.98,medium,low,9,namecheap,,,24/08/2026 11:31
 e2a09a66-3e22-4a06-bb86-90ed57f04af1,syndrome.bz,available,18.88,18.88,medium,low,8,dynadot,,,30/09/2026 12:45
 d2bf8215-2a71-4af8-977d-f246e7fa5199,consistency.bz,available,18.88,18.88,high,low,11,dynadot,,,29/09/2026 16:04
+0c6768d0-54bb-482e-ac81-9c1ebd79b9c0,constipation.bz,available,18.88,18.88,medium,low,12,dynadot,,,02/10/2026 21:23
 2807f090-6d96-4218-9ab8-a2b793b73dcb,amyloid.bz,available,21.98,26.98,medium,low,7,namecheap,,,
 33ec800a-6d7d-4119-8540-66b375752b63,shore.bz,available,,,high,low,5,,,,26/09/2026 00:07
+3bab3ee8-d7ac-4277-abdf-bf19fc34506d,mcu.bz,available,21.98,26.98,high,low,3,namecheap,,,03/10/2026 04:05
+17e7dac7-c0e1-4d3e-a68a-46194390e54d,recourse.bz,available,18.88,18.88,high,low,8,dynadot,,,02/10/2026 16:32
 be9fb0db-9e00-4041-91bd-252968dd1ac9,touched.bz,available,21.98,26.98,high,low,7,namecheap,,,25/08/2026 09:12
 ada277ac-22e9-4b3d-8cf9-a0b377658c96,purgatory.bz,available,21.98,26.98,medium,low,9,namecheap,,,01/10/2026 21:24
 1dd4fc28-5c03-4457-8e04-6b1572e32d4c,loot.bz,available,21.98,26.98,high,low,4,namecheap,,,24/09/2026 06:49
@@ -869,6 +931,7 @@ e55d52d3-5514-4ab6-ad42-a3d6842c75e6,battery.bz,available,21.98,26.98,high,low,7
 b4252bd5-f3fe-4204-9ada-e69a2fe1cd6e,unnumbered.bz,available,21.98,26.98,medium,low,10,namecheap,,,13/08/2026 03:46
 30444c49-4780-4106-acde-695bfe8d4457,custodian.bz,available,18.88,18.88,high,low,9,dynadot,,,30/09/2026 16:52
 421e8ca9-f2ce-438b-b2ce-27922165072a,stalked.bz,available,21.98,26.98,medium,low,7,namecheap,,,08/09/2026 13:33
+4effdc47-e527-4e40-a3eb-99bed469a88f,abstraction.bz,available,18.88,18.88,high,low,11,dynadot,,,02/10/2026 21:04
 d961528d-1840-4027-99e2-e3005c90a12d,haughty.bz,available,21.98,26.98,medium,low,7,namecheap,,,21/08/2026 01:24
 d7392551-cf51-45be-a90d-6be33545504e,transportation.bz,available,21.98,26.98,high,low,14,namecheap,,,19/09/2026 03:16
 9251358a-2da0-4946-87e3-8871e342eff3,provably.bz,available,21.98,26.98,medium,low,8,namecheap,,,14/09/2026 11:29
@@ -894,6 +957,7 @@ ff61756d-76ec-4183-9a0b-ae60368f2426,slaphappy.bz,available,21.98,26.98,medium,l
 0d4a16e8-8e2d-4718-941f-e5f261dd8f03,belong.bz,available,16.79,16.79,high,low,6,porkbun,,,30/09/2026 15:43
 13fc1036-fe38-41dd-a5ee-25d431993e6f,xlv.bz,available,21.98,26.98,medium,low,3,namecheap,,,
 984b1cc0-0f9e-4ec9-ad74-8a00b48c0c80,raleigh.bz,available,21.98,26.98,high,low,7,namecheap,,,25/09/2026 03:57
+8f41d9c6-0e65-4853-912c-a2500810d16e,blushing.bz,available,18.88,18.88,high,low,8,dynadot,,,02/10/2026 07:03
 f08929d6-cef5-4baf-b3b2-4809affc3699,stringy.bz,available,21.98,26.98,high,medium,7,namecheap,,,10/09/2026 08:17
 b83bedeb-f26e-4939-8bae-a302ad729af7,bonnie.bz,available,21.98,26.98,high,low,6,namecheap,,,10/08/2026 18:47
 bf96d54b-4264-452e-b20f-8299cf6aba6b,possessed.bz,available,18.88,18.88,medium,low,9,dynadot,,,28/09/2026 03:28
@@ -907,12 +971,13 @@ d7b1c4d3-bc4d-433f-952b-108ab504ad87,gras.bz,available,16.79,16.79,medium,low,4,
 ef7d16fe-38a6-4e8a-a7d4-7edc8441b72f,misses.bz,available,16.79,16.79,high,low,6,porkbun,,,01/10/2026 11:41
 0c1ae770-309d-4622-978e-3a9f9139788e,forgiveness.bz,available,21.98,26.98,high,low,11,namecheap,,,28/09/2026 08:15
 9c17158c-7a29-482d-96f0-175018d56dfc,racers.bz,available,18.88,18.88,medium,low,6,dynadot,,,01/10/2026 18:02
-cdb590d2-314e-4f40-90b0-f876cb67a568,shortcut.bz,available,18.88,18.88,high,low,8,dynadot,,,29/09/2026 13:56
+cdb590d2-314e-4f40-90b0-f876cb67a568,shortcut.bz,available,21.98,26.98,medium,low,8,namecheap,,,02/10/2026 21:28
 75c85e6b-9012-4327-95f0-b4b53080ef8d,viscous.bz,available,21.98,26.98,high,low,7,namecheap,,,20/08/2026 15:25
 d6462cd4-07d1-4275-80f9-abd55b55e990,refuse.bz,available,21.98,26.98,medium,low,6,namecheap,,,27/09/2026 02:42
 96ddc56d-4c2b-48ad-b907-03fb98a7d5b7,prototypal.bz,available,21.98,26.98,medium,low,10,namecheap,,,06/08/2026 15:37
 bbc99ff3-b29a-495f-88e8-6fdd1f794510,leonine.bz,available,21.98,26.98,high,low,7,namecheap,,,22/08/2026 23:57
 1405001a-7b16-4b0e-9fbc-fadc8be9b678,anaemia.bz,available,21.98,26.98,medium,low,7,namecheap,,,28/09/2026 21:05
+5fc90bd7-f5e7-4309-86bc-b17bf93581bd,luft.bz,available,21.98,26.98,medium,low,4,namecheap,,,02/10/2026 21:14
 7379c9b4-7765-43f8-85cf-58e5d3df7320,disrespectful.bz,available,16.79,16.79,medium,low,13,porkbun,,,30/09/2026 19:29
 d2a67363-6121-4890-b947-bdf900db3871,slowed.bz,available,21.98,26.98,medium,low,6,namecheap,,,20/09/2026 15:42
 c6d3d967-f53a-46de-8781-6cd3313fd25e,semiformal.bz,available,21.98,26.98,high,low,10,namecheap,,,10/08/2026 11:42
@@ -920,82 +985,17 @@ c6d3d967-f53a-46de-8781-6cd3313fd25e,semiformal.bz,available,21.98,26.98,high,lo
 7298be1c-86d2-4c99-94ae-fa54680d5763,routes.bz,available,16.79,16.79,medium,low,6,porkbun,,,29/09/2026 10:52
 5184ec77-4da2-482c-b737-8a16c848d4a7,louder.bz,available,21.98,26.98,high,low,6,namecheap,,,28/09/2026 08:31
 242fa501-a063-4850-a625-103937077028,jaipur.bz,available,21.98,26.98,high,low,6,namecheap,,,30/09/2026 20:47
+4d67c2f5-ecbe-419a-a264-5ab4b03ef970,snowman.bz,available,16.79,16.79,high,low,7,porkbun,,,02/10/2026 06:27
 b457b50c-964a-4fc8-9c12-1684cd8ff102,buckets.bz,available,18.88,18.88,medium,low,7,dynadot,,,30/09/2026 15:47
 43cdb19a-6be8-4ab2-8670-d22a85fe735e,frisian.bz,available,21.98,26.98,high,low,7,namecheap,,,18/08/2026 15:59
 a6486297-14ec-4556-a03b-207dad216eea,agrippina.bz,available,21.98,26.98,medium,low,9,namecheap,,,17/09/2026 19:33
 ba0883d3-ccd9-4dff-b2c9-d83700aec059,opposing.bz,available,21.98,26.98,high,low,8,namecheap,,,04/09/2026 16:38
 8f4c6775-14c9-496a-b103-6b3054b29de7,paulina.bz,available,16.79,16.79,high,low,7,porkbun,,,30/09/2026 20:13
 6720bc6e-d2ea-4e74-a2b4-2a5c24fa5aae,vicksburg.bz,available,21.98,26.98,medium,low,9,namecheap,,,28/09/2026 03:05
+4cdcdddb-6601-456c-b7f4-ebfdbbff39d6,recalling.bz,available,21.98,26.98,high,low,9,namecheap,,,02/10/2026 21:33
 2baebada-3b43-41cb-b7a4-17b0b9b59d8b,indignant.bz,available,21.98,26.98,medium,low,9,namecheap,,,22/08/2026 00:59
 da50f722-12fc-460e-bda6-9fa2016c553d,adopt.bz,available,18.88,18.88,high,low,5,dynadot,,,28/09/2026 03:18
 4c269579-4b2a-4aba-b204-131ba00a690e,drum.bz,available,21.98,26.98,high,low,4,namecheap,,,10/08/2026 18:17
 3b490702-a584-42e9-a343-efa1152e055f,touchy.bz,available,21.98,26.98,medium,low,6,namecheap,,,21/08/2026 14:42
 af6807de-1967-45e2-8cf1-9c68a53fe63e,lamenting.bz,available,21.98,26.98,medium,low,9,namecheap,,,22/08/2026 19:02
 19b3ff16-5469-41e6-9816-ef2ff263b933,riots.bz,available,21.98,26.98,low,low,5,namecheap,,,29/09/2026 05:50
-8c4cd033-63e8-4128-9497-a44105563f1c,methodology.bz,available,16.79,16.79,high,low,11,porkbun,,,30/09/2026 06:02
-916d7024-100b-441e-bf5e-f1f32dbf1a70,botany.bz,available,21.98,26.98,high,low,6,namecheap,,,01/10/2026 02:32
-50a8a8d0-e7d6-4046-8f84-5017e4ca905c,jessie.bz,available,21.98,26.98,high,low,6,namecheap,,,25/09/2026 11:53
-6517a126-9d4b-4989-86be-56a3bd2d18f2,slacking.bz,available,21.98,26.98,medium,low,8,namecheap,,,29/09/2026 20:57
-d31fb5dd-a72e-48bb-ba43-ba8cf1e4acb4,reporters.bz,available,21.98,26.98,medium,low,9,namecheap,,,28/09/2026 00:38
-c19989ab-ecf2-415a-8365-6e035a194abe,theodore.bz,available,16.79,16.79,high,low,8,porkbun,,,29/09/2026 02:58
-df1d2a4f-ba71-4eb0-9462-6f46fd91b54f,dslr.bz,available,16.79,16.79,high,low,4,porkbun,,,02/10/2026 01:25
-e0418b61-dcac-40e5-a58c-0332a164e32f,belated.bz,available,21.98,26.98,medium,low,7,namecheap,,,09/08/2026 12:37
-67e407c3-9781-42c9-9400-13afd5f0525a,lebanese.bz,available,21.98,26.98,high,low,8,namecheap,,,22/08/2026 22:15
-a6898b40-68a1-4c74-b602-76693380a52f,tearing.bz,available,21.98,26.98,high,low,7,namecheap,,,11/09/2026 09:42
-88e86099-6d68-4fb2-9992-7bb0ae14393c,slenderize.bz,available,21.98,26.98,medium,low,10,namecheap,,,10/09/2026 10:53
-576a8642-4983-4e1c-820b-67feee6daad0,socorro.bz,available,16.79,16.79,medium,low,7,porkbun,,,30/09/2026 21:57
-dc7189e8-fcfd-42bd-a377-349b1aa90145,inflation.bz,available,16.79,16.79,high,low,9,porkbun,,,29/09/2026 07:21
-fbd6dd04-648f-4350-9cda-8205acf2a2ed,cacophony.bz,available,21.98,26.98,medium,low,9,namecheap,,,10/08/2026 13:13
-5f80bfb6-4ef7-4366-97a2-a9cd600dccee,adoptee.bz,available,21.98,26.98,medium,low,7,namecheap,,,17/09/2026 09:39
-8c484c34-7a31-4e77-9ae9-01cca229eb30,bobcat.bz,available,21.98,26.98,high,medium,6,namecheap,,,22/09/2026 17:27
-a06881b7-0f01-4743-b8cb-d85d7567f801,footer.bz,available,21.98,26.98,high,low,6,namecheap,,,08/09/2026 12:38
-bc73d161-0484-4fa3-a1b3-6c3753576596,resinous.bz,available,21.98,26.98,medium,low,8,namecheap,,,09/09/2026 15:13
-f044a859-2069-4b91-9b05-5ff37dbf11cb,alters.bz,available,21.98,26.98,medium,low,6,namecheap,,,20/09/2026 13:23
-19bb6466-14b3-4e75-b7e4-321d658b8e45,ushers.bz,available,25,27.99,medium,low,6,name.com,,,20/09/2026 19:46
-62296c5e-df53-4281-bada-6041b5394876,behaviours.bz,available,21.98,26.98,medium,low,10,namecheap,,,20/09/2026 22:06
-0b14a5f6-7ac1-4adc-b6cb-50e15b199ea3,motorsport.bz,available,21.98,26.98,high,low,10,namecheap,,,17/09/2026 06:38
-261c3045-38bb-4138-843f-657bbccc5ecd,allahabad.bz,available,18.88,18.88,high,low,9,dynadot,,,30/09/2026 05:15
-c36e025f-90f1-415a-9fb3-eec82c530f9a,caper.bz,available,21.98,26.98,high,low,5,namecheap,,,22/09/2026 06:32
-6f8b95b0-ab70-4d8c-91e0-c228b77ada13,starting.bz,available,18.88,18.88,high,low,8,dynadot,,,28/09/2026 00:44
-6c245242-93a8-477d-94d3-9e6edb6f9f32,suspected.bz,available,21.98,26.98,medium,low,9,namecheap,,,11/09/2026 04:53
-64ed27b6-8c2a-41df-8988-dd84c3c0ef3f,career.bz,resell,,,high,low,6,Porkbun LLC,13/04/2017 18:36,13/04/2027 18:36,29/09/2026 05:57
-b4ce3331-2c6c-4039-80ea-b7e8e060f1c2,plaudit.bz,available,21.98,26.98,high,low,7,namecheap,,,16/09/2026 22:36
-75996e96-d178-4f44-b480-f894bcc523f5,adelie.bz,available,21.98,26.98,medium,low,6,namecheap,,,17/09/2026 07:17
-fc6f7d04-57e0-4c6f-8943-86f2eede6cfe,grotty.bz,available,21.98,26.98,medium,low,6,namecheap,,,20/08/2026 20:20
-ad3d99bf-24db-402d-948a-217ec4286909,blossoms.bz,available,18.88,18.88,medium,low,8,dynadot,,,01/10/2026 16:35
-16ed25d7-2095-47b5-994b-63365dbefe15,neely.bz,available,21.98,26.98,medium,low,5,namecheap,,,30/09/2026 13:55
-7e1cb0f5-4f0a-45a7-942c-57fb8042afab,anarchy.bz,available,21.98,26.98,high,low,7,namecheap,,,19/09/2026 02:28
-9fa55440-57b4-4596-a4eb-f8884d8da481,bentwood.bz,available,21.98,26.98,medium,low,8,namecheap,,,23/09/2026 08:47
-15227957-5c1e-453f-9a8e-6c8d70673340,inglorious.bz,available,21.98,26.98,medium,low,10,namecheap,,,21/08/2026 18:25
-0d1414d0-5dc3-400f-8e58-634b8f6194da,kemp.bz,available,18.88,18.88,medium,low,4,dynadot,,,29/09/2026 02:56
-a69af5d5-3816-4cde-b800-08c3702e021f,bergenia.bz,available,21.98,26.98,medium,low,8,namecheap,,,23/09/2026 09:20
-428a1817-8367-4f7b-a1ab-b0c79a7e44d9,polynomial.bz,available,21.98,26.98,high,low,10,namecheap,,,03/09/2026 10:48
-72e6a183-e7ef-47c0-a206-c8b99bf24866,westport.bz,available,16.79,16.79,high,low,8,porkbun,,,28/09/2026 08:11
-79b72a0d-79f4-4707-9a92-d49f53280964,validating.bz,available,21.98,26.98,high,low,10,namecheap,,,12/08/2026 20:53
-b7494578-e7ff-4b5c-9fb5-8b68c115c2fc,derek.bz,available,21.98,26.98,high,low,5,namecheap,,,25/09/2026 14:10
-9156c459-1499-4028-b51c-0bebc43a2260,bedroll.bz,available,21.98,26.98,medium,low,7,namecheap,,,22/09/2026 23:33
-a47715f1-8fa4-4c6d-a374-8921403ae113,jonson.bz,available,25,27.99,medium,low,6,name.com,,,23/09/2026 07:26
-8e9074f9-ca0a-4cbb-818e-80b31dbd5cd1,low.bz,available,21.98,26.98,high,low,3,namecheap,,,21/09/2026 13:54
-76ce077e-8e09-4c0d-979b-c1aa10003eb9,incompetent.bz,available,16.79,16.79,medium,low,11,porkbun,,,28/09/2026 21:19
-24de9d90-ad4e-40fc-b680-dafdafab535f,walks.bz,available,21.98,26.98,medium,low,5,namecheap,,,25/09/2026 16:37
-03807b6e-41a8-48ec-bdad-306963b0d834,algae.bz,available,21.98,26.98,high,low,5,namecheap,,,18/09/2026 06:48
-b816a706-fcaa-4740-9028-c337caf785f6,briary.bz,available,21.98,26.98,medium,low,6,namecheap,,,08/08/2026 17:02
-fc3ea46a-0c96-4031-9a6b-ff8d6d7483ec,specializing.bz,available,21.98,26.98,medium,low,12,namecheap,,,20/09/2026 06:01
-a6a607a4-fe0f-450d-827c-f8596340e387,chores.bz,available,21.98,26.98,medium,low,6,namecheap,,,29/09/2026 17:46
-956f7886-16db-4806-bf2c-32653eb4e693,affixed.bz,available,21.98,26.98,medium,low,7,namecheap,,,
-48d57a4b-f697-4743-8c3e-c914239173ba,several.bz,available,21.98,26.98,high,low,7,namecheap,,,02/10/2026 03:07
-7a10cdd5-bda7-4cde-bc79-d339d48df5b7,mahabharata.bz,available,16.79,16.79,high,low,11,porkbun,,,30/09/2026 20:17
-98771195-36e4-4cb1-a2a3-6fc23292ba2b,prohibited.bz,available,21.98,26.98,medium,low,10,namecheap,,,08/08/2026 13:48
-26c53ff9-db87-4c3c-9805-cf582a237118,artwork.bz,available,16.79,16.79,high,low,7,porkbun,,,28/09/2026 22:22
-cf5ab53c-3d71-440d-a4b6-f9c8eb325af4,thrilling.bz,available,21.98,26.98,high,low,9,namecheap,,,16/08/2026 02:41
-fc3dcc65-93c8-47db-b6a0-41f1ec16edf3,iaa.bz,available,21.98,26.98,medium,low,3,namecheap,,,17/09/2026 07:22
-40cb3c99-9765-4a1d-9c34-811de01df40d,katabatic.bz,available,21.98,26.98,medium,low,9,namecheap,,,11/08/2026 20:41
-8bcbaf1f-a467-45af-9c53-6f8006880554,lxv.bz,available,21.98,26.98,medium,low,3,namecheap,,,
-b608d56b-b21e-4550-9754-7b549c3acc6b,craving.bz,available,16.79,16.79,high,low,7,porkbun,,,30/09/2026 01:09
-3d9f22a6-7d3a-4231-bd41-be50bf44baa1,alcibiades.bz,available,21.98,26.98,medium,low,10,namecheap,,,18/09/2026 04:00
-37ad8416-f7fd-462a-a70a-9ceec6b80a5c,european.bz,available,21.98,26.98,high,low,8,namecheap,,,24/09/2026 15:26
-9815b6ac-60b3-4170-a08a-bbe058a6323c,coworker.bz,available,21.98,26.98,high,low,9,namecheap,,,24/09/2026 16:09
-5d171efd-b618-460d-9855-91e0f0a72b13,revealing.bz,available,21.98,26.98,high,low,9,namecheap,,,27/09/2026 13:41
-4a91e97d-a467-49a6-97cd-c2e636b9405c,merchants.bz,available,21.98,26.98,high,low,9,namecheap,,,18/09/2026 04:36
-83ec1643-7672-4ae5-8b5f-e076daa26c08,agronomy.bz,available,21.98,26.98,medium,low,8,namecheap,,,17/09/2026 19:42
-d08b197e-dbc2-440a-b4ad-127dbc4e677c,rosecrans.bz,available,16.79,16.79,medium,low,9,porkbun,,,02/10/2026 00:51
